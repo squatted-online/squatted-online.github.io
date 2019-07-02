@@ -38,8 +38,30 @@
     }
 } */
 
+/* SCROLLBAR */
+
+/* Let's get this party started */
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    background: #000;
+    /* THIS IS IMPORTANT */
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: #0f05
+}
+
 * {
     box-sizing: border-box;
+    scrollbar-color: #0f05 #000;
 }
 
 html {
