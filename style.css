@@ -77,10 +77,15 @@ a{
 }
 
 .call{
+    /* background-color: #222; */
+    border: dashed 2px #00f;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1rem;
+    font-size: 1.2rem;
     line-height: 1.5rem;
     text-align: left;
+    padding: 0.5rem;
+    /* box-shadow: #222 0px 0px 50px 70px */
+    transform: rotate(0deg);
 }
 
 .call p{
@@ -90,7 +95,22 @@ a{
     width: 90%;
     margin: auto;
 }
-
+.submit{
+    font-family: 'pixel', monospace;
+    text-align: center;
+    margin: 20px;
+    font-size: 4rem;
+    letter-spacing: 5px;
+    background-color: #ccc;
+    padding: 1.5rem;
+    border-radius: 50px;
+}
+.submit a{
+    color: #00f;
+}
+.submit a:hover{
+    color: #f00;
+}
 .footnotes{
     border-top: solid 2px #0f0;
     margin-top: 30px;
