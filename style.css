@@ -76,6 +76,23 @@ a{
     animation: input-shadow ease-in-out 3s infinite;
 }
 
+.vpcontainer{
+    height:150vh;
+    width: 100%;
+    position: absolute;
+    top: 150px;
+    background: linear-gradient(rgba(0,0,0,0) 0%, rgb(0, 0, 0) 33%, rgba(0,0,0,0) 100%);
+}
+
+.vplogo{
+    width:80%;
+    height: 100vh;
+    background-image: url("http://virtualpalestine.net/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B4%D9%81%D8%A7%D9%81.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
 .call{
     /* background-color: #222; */
     border: dashed 2px #00f;
