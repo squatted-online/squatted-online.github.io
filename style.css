@@ -85,6 +85,10 @@ a {
   animation: input-shadow ease-in-out 3s infinite;
 }
 
+.utopia {
+  width: 100%;
+}
+
 .call {
   /* background-color: #222; */
   border: dashed 2px #00f;
@@ -97,22 +101,26 @@ a {
   transform: rotate(0deg);
   background-color: rgba(0, 0, 0, 0.5);
 }
-.vpcontainer{
-    height:150vh;
-    width: 100%;
-    position: absolute;
-    top: 150px;
-    background: linear-gradient(rgba(0,0,0,0) 0%, rgb(0, 0, 0) 33%, rgba(0,0,0,0) 100%);
+.vpcontainer {
+  height: 150vh;
+  width: 100%;
+  position: absolute;
+  top: 150px;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0) 0%,
+    rgb(0, 0, 0) 33%,
+    rgba(0, 0, 0, 0) 100%
+  );
 }
 
-.vplogo{
-    width:80%;
-    height: 100vh;
-    background-image: url("http://virtualpalestine.net/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B4%D9%81%D8%A7%D9%81.png");
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin: 0 auto;
+.vplogo {
+  width: 80%;
+  height: 100vh;
+  background-image: url('http://virtualpalestine.net/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B4%D9%81%D8%A7%D9%81.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 auto;
 }
 
 .call p {
