@@ -85,6 +85,18 @@ a {
   animation: input-shadow ease-in-out 3s infinite;
 }
 
+.call {
+  /* background-color: #222; */
+  border: dashed 2px #00f;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  text-align: left;
+  padding: 0.5rem;
+  /* box-shadow: #222 0px 0px 50px 70px */
+  transform: rotate(0deg);
+  background-color: rgba(0, 0, 0, 0.5);
+  
 .vpcontainer{
     height:150vh;
     width: 100%;
@@ -101,17 +113,6 @@ a {
     background-size: contain;
     background-repeat: no-repeat;
     margin: 0 auto;
-}
-.call{
-    /* background-color: #222; */
-    border: dashed 2px #00f;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.2rem;
-    line-height: 1.5rem;
-    text-align: left;
-    padding: 0.5rem;
-    /* box-shadow: #222 0px 0px 50px 70px */
-    transform: rotate(0deg);
 }
 
 .call p {
