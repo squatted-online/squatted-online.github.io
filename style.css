@@ -96,7 +96,7 @@ a {
   /* box-shadow: #222 0px 0px 50px 70px */
   transform: rotate(0deg);
   background-color: rgba(0, 0, 0, 0.5);
-  
+}
 .vpcontainer{
     height:150vh;
     width: 100%;
