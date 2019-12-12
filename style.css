@@ -29,12 +29,12 @@ html {
 body {
   padding: 0;
   margin: 0;
-  background-color: #000;
-  /* background-image: url('img/pirate.gif'); */
+  background-color: #33f;
+  background-image: url('img/pirate.gif');
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  color: #0f0;
+  /* background-size: cover; */
+  /* background-position: center; */
+  color: #eee;
 }
 
 p,
@@ -51,7 +51,7 @@ i {
   color: #f00;
 }
 a {
-  color: #fa0;
+  color: #0f0;
 }
 .container {
   display: flex;
@@ -61,6 +61,7 @@ a {
   min-width: 300px;
   max-width: 700px;
   margin: auto;
+  background-color: #33f;
 }
 .title-center {
   /* position: fixed; */
@@ -70,7 +71,7 @@ a {
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%); */
-  background-color: transparent;
+  /* background-color: #000a; */
   text-align: center;
   font-family: 'pixel', monospace;
   font-size: 2rem;
@@ -82,28 +83,31 @@ a {
     width: -webkit-max-content;
     width: -moz-max-content;
     width: -o-max-content; */
-  -webkit-animation: input-shadow ease-in-out 3s infinite;
+  /* -webkit-animation: input-shadow ease-in-out 3s infinite; */
   /* Chrome, Safari, Opera */
-  animation: input-shadow ease-in-out 3s infinite;
+  /* animation: input-shadow ease-in-out 3s infinite; */
 }
 
 .utopia {
   width: 100%;
+  margin: auto;
+  position: fixed;
+  z-index: 0;
 }
 
 .call {
   /* background-color: #222; */
-  border: dashed 2px #00f;
+  border: dashed 2px #eee;
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.2rem;
   line-height: 1.5rem;
   text-align: left;
   padding: 0.5rem;
   /* box-shadow: #222 0px 0px 50px 70px */
-  transform: rotate(0deg);
-  background-color: rgba(0, 0, 0, 0.5);
+  /* background-color: rgba(0, 0, 0, 0.5); */
 }
 .vpcontainer {
+  z-index: -1;
   height: 150vh;
   width: 100%;
   position: absolute;
@@ -142,6 +146,7 @@ a {
   padding: 1.5rem;
   border-radius: 50px;
   line-height: 4rem;
+  border: 2px solid #00f;
 }
 .submit a {
   color: #00f;
@@ -157,7 +162,7 @@ a {
 
 p.highlight {
   /* font-family: Helvetica, sans-serif; */
-  color: #0ff;
+  color: #fff;
   font-style: italic;
   width: 100%;
   font-size: 1.2rem;
