@@ -30,7 +30,7 @@ body {
   padding: 0;
   margin: 0;
   background-color: #000;
-  background-image: url('img/pirate.gif');
+  /* background-image: url('img/pirate.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -141,6 +141,7 @@ a {
   background-color: #ccc;
   padding: 1.5rem;
   border-radius: 50px;
+  line-height: 4rem;
 }
 .submit a {
   color: #00f;
@@ -160,4 +161,10 @@ p.highlight {
   font-style: italic;
   width: 100%;
   font-size: 1.2rem;
+}
+
+@media all and (max-width: 699px){
+  html{
+    font-size: 75%;
+  }
 }
