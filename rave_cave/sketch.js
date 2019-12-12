@@ -49,9 +49,9 @@ drum_machine.appendChild(bass_elt);
 
 function setup() {
     noCanvas();
-    hh = loadSound('./rave_cave/drum_samples/hh_sample.mp3', () => { });
-    clap = loadSound('./rave_cave/drum_samples/clap_sample.mp3', () => { });
-    bass = loadSound('./rave_cave/drum_samples/bass_sample.mp3', () => { });
+    hh = loadSound('drum_samples/hh_sample.mp3', () => { });
+    clap = loadSound('drum_samples/clap_sample.mp3', () => { });
+    bass = loadSound('drum_samples/bass_sample.mp3', () => { });
 
     hh_phrase = new p5.Phrase('hh', (time) => {
         hh.play(time)
