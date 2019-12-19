@@ -29,7 +29,7 @@ html {
 body {
   padding: 0;
   margin: 0;
-  background-color: #33f;
+  /* background-color: #33f; */
   background-image: url('img/pirate.gif');
   background-repeat: no-repeat;
   /* background-size: cover; */
