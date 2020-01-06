@@ -19,7 +19,14 @@ body{
     -moz-transform: translate(-50%, -50%);
 }
 
-.drum-machine, .knobs {
+.claps{
+    height: 98vh;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+/* .drum-machine, .knobs  */
+.panel{
     width: 75%;
     height: 35%;
     background-color: #ccc;
