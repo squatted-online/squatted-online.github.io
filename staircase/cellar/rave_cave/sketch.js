@@ -81,6 +81,7 @@ function setup() {
 
 }
 
+panels = document.getElementsByClassName('panel');
 function draw() {
     const hh_inputs = hh_elt.childNodes;
     const clap_inputs = clap_elt.childNodes;
@@ -110,6 +111,25 @@ function draw() {
     const bass_freq = parseFloat(document.getElementById('bass-lpf').value);
     bass_filter.freq(bass_freq);
 
+    if (hh.isPlaying() && hh.currentTime() != 0){
+        panels[0].style.boxShadow = '7px 7px #ff3';
+        panels[1].style.boxShadow = '7px 7px #ff3';
+    }else{
+        panels[0].style.boxShadow = '5px 5px #f33';
+        panels[1].style.boxShadow = '5px 5px #f33';
+    }
+
+    if (clap.isPlaying() && clap.currentTime() != 0){
+        document.querySelector('.claps').style.visibility = 'visible';
+    }else{
+        document.querySelector('.claps').style.visibility = 'hidden';
+    }
+
+    if (bass.isPlaying() && bass.currentTime() != 0){
+        document.body.style.backgroundColor = '#3ff';
+    } else{
+        document.body.style.backgroundColor = '#33f';
+    }
 }
 
 function keyPressed() {

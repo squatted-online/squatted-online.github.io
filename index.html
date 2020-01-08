@@ -26,6 +26,18 @@
 
 </head>
 
+<style>
+  .blink {
+    animation: blinker 1s step-start infinite;
+  }
+
+  @keyframes blinker {
+    50% {
+      background-color: #f00;
+    }
+  }
+</style>
+
 <body>
   <div class="utopia">
   </div>	  
@@ -54,7 +66,7 @@
         </ol>
       </div>
       <div>
-        <h2><a href="/rave_cave/index.html" target="_blank" rel="noopener noreferrer">TO THE RAVE CAVE!</a></h2>
+        <h2><a href="/rave_cave/index.html" target="_blank" rel="noopener noreferrer" class="blink">TO THE RAVE CAVE!</a></h2>
       </div>
 <br>
       <div>
@@ -72,6 +84,9 @@
             </li>
             <li>
               <a>DIEGO BERNASCHINA</a>
+            </li>
+            <li>
+              <a href="https://pitscher.net">pitscher</a>
             </li>
           </ul>
         </p>
