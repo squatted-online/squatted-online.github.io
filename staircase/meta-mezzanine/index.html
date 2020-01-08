@@ -11,20 +11,21 @@
 <body>
 
   <div>
-    //alex zhang 2019
+    // alex zhang 2019 <br>
+    // try to type "off"
   </div>
-  <script spellcheck="false" style="display: block;" id="script">
-    document.designMode = "on";
-    
+  <script spellcheck="false" style="display: block;" class="script">
+    document.designMode = "on";    
   </script>
   <div>
-    //careful, it's javascript!</div>
+    // careful, it's javascript!</div>
   <script>
 
 
-    const script_content = document.getElementById('script');
+    const script_content = document.getElementsByClassName('script');
     window.onkeyup = (el) => {
-      const result = eval(script_content.textContent);
+      const script = script_content[script_content.length - 1];
+      const result = eval(script.textContent);
       console.log(result);
     }
   </script>
