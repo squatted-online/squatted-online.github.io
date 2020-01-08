@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'pixel';
-  src: url('fonts/PxPlus_VGA_SquarePx.ttf'),
-    url('fonts/PxPlus_VGA_SquarePx.woff');
+  src: url('staircase/floor_1/library/fonts/PxPlus_VGA_SquarePx.woff'),
+    url('staircase/floor_1/library/fonts/PxPlus_VGA_SquarePx.woff');
 }
 
 /* SCROLLBAR */
@@ -30,7 +30,7 @@ body {
   padding: 0;
   margin: 0;
   background-color: #33f;
-  background-image: url('img/pirate.gif');
+  background-image: url('staircase/floor_1/library/img/pirate.gif');
   background-repeat: no-repeat;
   /* background-size: cover; */
   /* background-position: center; */
