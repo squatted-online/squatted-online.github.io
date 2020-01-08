@@ -167,6 +167,12 @@ p.highlight {
   width: 100%;
   font-size: 1.2rem;
 }
+.map{
+  text-align: left;
+  font-family: Courier, monospace;
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+}
 
 @media all and (max-width: 699px){
   html{
