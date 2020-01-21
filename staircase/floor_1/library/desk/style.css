@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'pixel';
-    src: url('../library/fonts/PxPlus_VGA_SquarePx.ttf'), url('../library/fonts/PxPlus_VGA_SquarePx.woff');
+    src: url('../fonts/PxPlus_VGA_SquarePx.ttf'), url('../fonts/PxPlus_VGA_SquarePx.woff');
 }
 
 /* SCROLLBAR */
@@ -12,18 +12,18 @@
 /* Track */
 
 ::-webkit-scrollbar-track {
-    background: #33f;
+    background: #000;
 }
 
 /* Handle */
 
 ::-webkit-scrollbar-thumb {
-    background: #fff;
+    background: #0f05;
 }
 
 * {
     box-sizing: border-box;
-    scrollbar-color: #fff #33f;
+    scrollbar-color: #0f05 #000;
 }
 
 html {
@@ -42,6 +42,7 @@ p, li, ul, h2, span {
 }
 .container{
     position: fixed;
+    /* left: 300px; */
     display: flex;
     /* justify-content: center;
     align-items: center;
@@ -49,31 +50,21 @@ p, li, ul, h2, span {
     width: 100%;
     height: 100vh;
 }
-.video-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+
+.container iframe{
     width: 60%;
-    height: auto;
-    transform: perspective(1000px) rotateY(-45deg) translateZ(0px);
-}
-.video-player{
-    /* position: absolute; */
-    /* top: 0px; */
-    /* right: 0px; */
-    width:640px;
-    height:360px;
-    box-shadow: 10px 10px #000;
-}
+    height: 100%;
 
-
+    transform: perspective(1500px) rotateY(30deg)translateX(25%);
+    transform-origin: 0% 50%;
+    box-shadow: -10px 10px #000;
+}
 .container div.description{
     width: 40%;
-    padding: 1rem;
     /* transform: perspective(1500px) rotateY(-45deg) translateX(0px);
     transform-origin: 0% 50%; */
 }
+
 .description h3, .description h4{
     font-family: 'pixel', monospace;
 }
