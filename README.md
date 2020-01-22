@@ -28,7 +28,7 @@ from February 8th to March 1st 2020 in [basel](https://www.openstreetmap.org/#ma
 
 main venue (20-02-08 / 20-03-01): [keck kiosk](https://www.keck-kiosk.ch)
 
-closing venue (20-02-28 / 20-03-01): [ausstellungsraum klingental](https://www.ausstellungsraum.ch/en/general_information-e.html)
+closing venue (20-02-28 / 20-03-01): [rank](https://www.ausstellungsraum.ch/en/general_information-e.html)
 
 ----------------------------------
 ### GET IN TOUCH 📮
