@@ -2,7 +2,7 @@
 
 <b>Embassy 🎪 for [the wrong digital art biennale 2020](http://thewrong.org)
   
-<b>reflecting on the possibilities of squatting digital spaces
+reflecting on the possibilities of squatting digital spaces</b>
 
 ## Abstract
 
