@@ -46,6 +46,8 @@ by [La Scuola Open Source](http://www.lascuolaopensource.xyz)
 Bemused 90.63% as an experimental journey is possible thanks to the creation of an open-source extension that modifies website navigation.
 The extension has a certain probability of modifying the web pages visited by the user, redirecting all clickable links to a random selection of disused sites. Once this happens, the user begins a journey through these forgotten internet pages, which are altered by CSS transformations to emphasize their decay. To give a sense of this journey, a drunken Virgil: a red text box appears in superimposition on each site, containing quotes from various sources on issues such as getting lost, the internet, surveillance.
 
+[repo](https://github.com/squatted-online/bemused-90.63)
+
 ### [Rank](https://www.ausstellungsraum.ch/en/general_information-e.html) 28/2 – 1/3
 
 #### Vernissage Friday 28th 7PM
