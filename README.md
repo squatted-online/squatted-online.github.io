@@ -1,7 +1,6 @@
 # [squatted.online](https://squatted.online)
 
-<b>Embassy 🎪 for [the wrong digital art biennale 2020](http://thewrong.org)
-  
+<b>Embassy 🎪 for [the wrong digital art biennale 2020](http://thewrong.org)<br>
 reflecting on the possibilities of squatting digital spaces</b>
 
 ## Abstract
@@ -58,11 +57,11 @@ Sunday: 13 PM – 7 PM
 
 #### Artists & Projects
 
-@_pitscher, Cybersquat
-La scuola Open Source, Bemused 90.63%
-Tsila hassine, Shmoogle
-Winnie Yoe, Narratives of Resistance & Resilience
-Theetat Thunkijjanukij, noplanet
+@_pitscher, Cybersquat<br>
+La scuola Open Source, Bemused 90.63%<br>
+Tsila hassine, Shmoogle<br>
+Winnie Yoe, Narratives of Resistance & Resilience<br>
+Theetat Thunkijjanukij, noplanet<br>
 
 ----------------------------------
 
