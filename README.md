@@ -21,8 +21,6 @@ In the context of The Wrong 2019 we invite participating artists to takethe poss
 
 (5): Koolhaas, Rem. Delirious New York: A Retroactive Manifesto for Manhattan. Rotterdam: 010 Publishers, 1994.
 
-full text [here](https://squatted.online/call-for-artists.txt)
-
 ## PROGRAM 🗓
 
 ### [Keck Kiosk](https://www.keck-kiosk.ch) 21/2 – 1/3
@@ -74,6 +72,7 @@ for more info and questions please open a new issue 💔
 for submiting artworks 🖼 ideas 💭 or residencies inquiries write us [here](mailto:helloworld@basel.codes)
 
 - - -
+
 💖💖💖 LOVE 💖💖💖
 
 [basel.codes](https://basel.codes) team
