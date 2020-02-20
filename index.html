@@ -24,6 +24,7 @@
   <meta property="og:description" content="online and offline exhibition space for the wrong digital art biennale" />
   <link rel="stylesheet" href="style.css">
 
+  <script src="https://player.twitch.tv/js/embed/v1.js"></script>
 </head>
 
 <style>
@@ -39,6 +40,19 @@
 </style>
 
 <body>
+  <div class="bg-iframe">
+    <div id="pawsmenu"></div>
+    <script type="text/javascript">
+      const options = {
+        width: 620,
+        height: 378,
+        channel: "pawsmenu",
+      };
+      const player = new Twitch.Player("pawsmenu", options);
+      player.setVolume(0.5);
+    </script>
+  </div>
+  
   <!-- <div class="utopia">
   </div> -->
   <div class="container">
@@ -52,38 +66,38 @@
       <div class="map">
         <h1 style="text-align: center; font-family: 'pixel', monospace;">SQUAT MAP 🗺</h1>
         . <br>
-        ├── index.html <br>
+        ├── index.html => by Michael Berto<br>
         ├── <a href="call-for-artists.txt" class="blink">call-for-artists.txt</a> <br>
         ├── staircase <br>
         │ ├── cellar <br>
         │ │ └── <a href="staircase/cellar/rave_cave/" class="blink">rave_cave</a> <br>
-        │ │   &nbsp;&nbsp;├── drum_samples <br>
-        │ │   &nbsp;&nbsp;│ ├── bass_sample.mp3 <br>
-        │ │   &nbsp;&nbsp;│ ├── clap_sample.mp3 <br>
-        │ │   &nbsp;&nbsp;│ └── hh_sample.mp3 <br>
-        │ │   &nbsp;&nbsp;├── index.html <br>
-        │ │   &nbsp;&nbsp;├── sketch.js <br>
-        │ │   &nbsp;&nbsp;└── style.css <br>
+        │ │ &nbsp;&nbsp;├── drum_samples <br>
+        │ │ &nbsp;&nbsp;│ ├── bass_sample.mp3 <br>
+        │ │ &nbsp;&nbsp;│ ├── clap_sample.mp3 <br>
+        │ │ &nbsp;&nbsp;│ └── hh_sample.mp3 <br>
+        │ │ &nbsp;&nbsp;├── index.html <br>
+        │ │ &nbsp;&nbsp;├── sketch.js <br>
+        │ │ &nbsp;&nbsp;└── style.css <br>
         │ ├── floor_1 <br>
         │ │ ├── <a href="staircase/floor_1/cinema/" class="blink">cinema</a> <br>
         │ │ │ ├── index.html => by Noviki <br>
         │ │ │ └── style.css <br>
         │ │ └── library <br>
-        │ │   ├── <a href="staircase/floor_1/library/desk/index.html" class="blink">desk</a> <br>
-        │ │   │ ├── index.html => by Tsila Hassine <br>
-        │ │   │ └── style.css <br>
-        │ │   ├── fonts <br>
-        │ │   │ ├── PxPlus_VGA_SquarePx.ttf <br>
-        │ │   │ └── PxPlus_VGA_SquarePx.woff <br>
-        │ │   ├── img <br>
-        │ │   │ ├── pirate.gif <br>
-        │ │   │ ├── squatted.png <br>
-        │ │   │ └── utopia.jpg <br>
-        │ │   └── readings <br>
-        │ │   &nbsp;&nbsp;├── Everything_I_know_about_technocapitalism.pdf <br>
-        │ │   &nbsp;&nbsp;├── Mudu-2004-Antipode.pdf <br>
-        │ │   &nbsp;&nbsp;├── Mudu-2004-Antipode.rtf <br>
-        │ │   &nbsp;&nbsp;└── The de commodification of urban space and the occupied social centres in Italy.pdf <br>
+        │ │ ├── <a href="staircase/floor_1/library/desk/index.html" class="blink">desk</a> <br>
+        │ │ │ ├── index.html => by Tsila Hassine <br>
+        │ │ │ └── style.css <br>
+        │ │ ├── fonts <br>
+        │ │ │ ├── PxPlus_VGA_SquarePx.ttf <br>
+        │ │ │ └── PxPlus_VGA_SquarePx.woff <br>
+        │ │ ├── img <br>
+        │ │ │ ├── pirate.gif <br>
+        │ │ │ ├── squatted.png <br>
+        │ │ │ └── utopia.jpg <br>
+        │ │ └── readings <br>
+        │ │ &nbsp;&nbsp;├── Everything_I_know_about_technocapitalism.pdf <br>
+        │ │ &nbsp;&nbsp;├── Mudu-2004-Antipode.pdf <br>
+        │ │ &nbsp;&nbsp;├── Mudu-2004-Antipode.rtf <br>
+        │ │ &nbsp;&nbsp;└── The de commodification of urban space and the occupied social centres in Italy.pdf <br>
         │ └── <a href="/staircase/meta-mezzanine/" class="blink">meta-mezzanine</a> <br>
         │ │ &nbsp;&nbsp;└── index.html => by Alex Zhang <br>
         │ └── floor_2 <br>
@@ -134,6 +148,9 @@
             <li>
               <a href="http://www.xn--1xa.wtf">Theetat Thunkijjanukij</a>
             </li>
+            <li>
+              <a href="http://www.pawsmenu.net/">Michael Berto</a>
+            </li>
           </ul>
         </p>
       </div>
@@ -145,10 +162,11 @@
         ARTWORK!</a>
     </div>
   </div>
-  <div class="vpcontainer">
+  
+  <!-- <div class="vpcontainer">
     <div class="vplogo"></div>
     <img src="staircase/floor_1/library/img/utopia.jpg" />
-  </div>
+  </div> -->
   <script src="js/scripts.js"></script>
 </body>
 

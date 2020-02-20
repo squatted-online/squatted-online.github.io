@@ -30,7 +30,7 @@ body {
   padding: 0;
   margin: 0;
   background-color: #33f;
-  background-image: url('staircase/floor_1/library/img/pirate.gif');
+  /* background-image: url('staircase/floor_1/library/img/pirate.gif'); */
   background-repeat: no-repeat;
   /* background-size: cover; */
   /* background-position: center; */
@@ -61,7 +61,8 @@ a {
   min-width: 300px;
   max-width: 700px;
   margin: auto;
-  background-color: #33f;
+  background-color: #33fa;
+  text-overflow: ellipsis;
 }
 .title-center {
   /* position: fixed; */
@@ -172,6 +173,15 @@ p.highlight {
   font-family: Courier, monospace;
   font-size: 0.75rem;
   line-height: 0.75rem;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bg-iframe{
+  z-index: -1;
+  position: fixed;
+  margin: auto;
 }
 
 @media all and (max-width: 699px){
