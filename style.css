@@ -44,6 +44,7 @@ h2,
 span {
   margin: 0px;
 }
+
 h2 {
   word-break: break-all;
 }
@@ -185,6 +186,24 @@ p.highlight {
   position: fixed;
   margin: auto;
   top: 0px;
+}
+
+.align-left{
+  text-align: left;
+}
+
+ul{
+  list-style-type: square;
+}
+
+.blink {
+  animation: blinker 1s step-start infinite;
+}
+
+@keyframes blinker {
+  50% {
+    background-color: #f00;
+  }
 }
 
 @media all and (max-width: 699px){
