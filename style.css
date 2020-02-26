@@ -225,3 +225,24 @@ ul li {
   color: red;
   font-size: 1.6rem;
 }
+
+footer {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+footer li {
+  display: inline;
+  margin-left: 20px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+
+hr {
+  margin-bottom: 30px;
+  max-width: 1000px;
+  border: solid 0.1px white;
+}
