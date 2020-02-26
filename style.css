@@ -60,9 +60,8 @@ a {
   display: flex;
   flex-direction: column;
   align-content: center;
-  width: 50%;
   min-width: 300px;
-  max-width: 700px;
+  max-width: 900px;
   margin: auto;
   background-color: #33fa;
   text-overflow: ellipsis;
