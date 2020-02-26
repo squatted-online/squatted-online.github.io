@@ -174,9 +174,9 @@ p.highlight {
 .map{
   text-align: left;
   font-family: Courier, monospace;
-  font-size: 0.75rem;
-  line-height: 0.75rem;
-
+  font-size: 0.85rem;
+  line-height: 0.85rem;
+  padding-bottom: 30px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
