@@ -229,6 +229,9 @@ ul li {
 footer {
   margin-bottom: 30px;
   text-align: center;
+  font-family: pixel;
+  font-size: 1.65rem;
+  letter-spacing: 0.01rem;
 }
 
 footer li {
