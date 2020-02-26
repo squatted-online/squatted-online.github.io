@@ -193,7 +193,11 @@ p.highlight {
 }
 
 ul{
-  list-style-type: square;
+  list-style-type: none;
+}
+
+ul li {
+  padding-top: 15px;
 }
 
 .blink {
@@ -210,4 +214,9 @@ ul{
   html{
     font-size: 75%;
   }
+}
+
+.squat-room {
+  text-transform: uppercase;
+  font-weight: 900;
 }
