@@ -51,9 +51,9 @@ The extension has a certain probability of modifying the web pages visited by th
 #### Vernissage Friday 28th 7PM
 
 #### Hours<br>
-Friday 28: 7PM – 11PM
-Saturday: 1PM – 10PM
-Sunday: 1PM – 5PM
+Friday 28: 7PM – 11PM<br>
+Saturday: 1PM – 10PM<br>
+Sunday: 1PM – 5PM<br>
 
 #### Artists & Projects
 
