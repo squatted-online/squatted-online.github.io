@@ -1,0 +1,10 @@
+
+/*Fontlab*/
+@font-face {
+    font-family: 'Fontlab';
+    src: url('Fontlab.eot'); /* IE 9 Compatibility Mode */
+    src: url('Fontlab.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+         url('Fontlab.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+         url('Fontlab.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Fontlab.svg#Fontlab') format('svg'); /* Chrome < 4, Legacy iOS */
+    }
