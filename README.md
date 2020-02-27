@@ -1,7 +1,7 @@
 # [squatted.online](https://squatted.online)
 
-<b>Embassy 🎪 for [the wrong digital art biennale 2020](http://thewrong.org)<br>
-reflecting on the possibilities of squatting digital spaces</b>
+__Embassy 🎪 for [the wrong digital art biennale 2020](http://thewrong.org)
+reflecting on the possibilities of squatting digital spaces__
 
 ## Abstract
 
@@ -57,15 +57,15 @@ Sunday: 1PM – 5PM<br>
 
 #### Artists & Projects
 
-Alex Zhang<br>
-La Scuola Open Source --> Bemused 90.63%<br>
-Maxim Stähelin --> RC-Toy<br>
-pitscher --> Cybersquat<br>
-Michael Berto --> The Geography<br>
-Noviki --> The Node<br>
-Theetat Thunkijjanukij --> nopeplanet<br>
-Tsila hassine --> Shmoogle<br>
-Winnie Yoe --> Magnetic Bullshit<br>
+* Alex Zhang
+* La Scuola Open Source => Bemused 90.63%
+* Maxim Stähelin => RC-Toy
+* pitscher => Cybersquat
+* Michael Berto => The Geography
+* Noviki => The Node
+* Theetat Thunkijjanukij => nopeplanet
+* Tsila hassine => Shmoogle
+* Winnie Yoe => Magnetic Bullshit — Hong Kong Police Edition
 
 ----------------------------------
 
