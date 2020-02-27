@@ -16,30 +16,66 @@
   scrollbar-color: #0f05 #000;
 }
 
+/* ELEMENTS */
+
 html {
-  font-size: 100%;
+  font-size: 14px;
+  font-family: 'pixel', monospace;
 }
 
 body {
   padding: 0;
   margin: 0;
   background-color: #33f;
-  /* background-image: url('staircase/floor_1/library/img/pirate.gif'); */
   background-repeat: no-repeat;
-  /* background-size: cover; */
-  /* background-position: center; */
   color: #eee;
+}
+
+h1 {
+  font-size: 3rem;
 }
 
 h2 {
   word-break: break-all;
+  font-size: 2rem;
 }
+
 i {
   color: #f00;
 }
+
 a {
   color: #0f0;
 }
+
+ul li {
+  padding-top: 15px;
+}
+
+hr {
+  margin-bottom: 30px;
+  max-width: 1000px;
+  border: solid 0.1px white;
+}
+
+footer {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 1.65rem;
+  letter-spacing: 0.01rem;
+}
+
+footer li {
+  display: inline;
+  margin-left: 20px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+/* CLASSES */
+
 .container {
   position: relative;
   z-index: 99;
@@ -52,29 +88,12 @@ a {
   background-color: #33fa;
   text-overflow: ellipsis;
 }
+
 .title-center {
-  /* position: fixed; */
-  /* top: 50%; */
-  /* left: 50%; */
-  /* transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%);
-    -moz-transform: translate(-50%, -50%);
-    -o-transform: translate(-50%, -50%); */
-  /* background-color: #000a; */
   text-align: center;
-  font-family: 'pixel', monospace;
-  font-size: 2rem;
-  line-height: 1.5rem;
+  /* font-size: 2rem;
+  line-height: 1.5rem; */
   padding: 0.5rem;
-  /* width: 33%;
-    min-width: 300px; */
-  /* width: max-content;
-    width: -webkit-max-content;
-    width: -moz-max-content;
-    width: -o-max-content; */
-  /* -webkit-animation: input-shadow ease-in-out 3s infinite; */
-  /* Chrome, Safari, Opera */
-  /* animation: input-shadow ease-in-out 3s infinite; */
 }
 
 .utopia {
@@ -95,6 +114,7 @@ a {
   /* box-shadow: #222 0px 0px 50px 70px */
   /* background-color: rgba(0, 0, 0, 0.5); */
 }
+
 .vpcontainer {
   z-index: -1;
   height: 150vh;
@@ -127,7 +147,6 @@ a {
 }
 
 .submit {
-  font-family: 'pixel', monospace;
   text-align: center;
   margin: 20px;
   font-size: 4rem;
@@ -183,24 +202,8 @@ p.highlight {
   text-align: left;
 }
 
-ul li {
-  padding-top: 15px;
-}
-
 .blink {
   animation: blinker 1s step-start infinite;
-}
-
-@keyframes blinker {
-  50% {
-    background-color: #f00;
-  }
-}
-
-@media all and (max-width: 699px){
-  html{
-    font-size: 75%;
-  }
 }
 
 .squat-room {
@@ -214,25 +217,17 @@ ul li {
   font-size: 1.6rem;
 }
 
-footer {
-  margin-bottom: 30px;
-  text-align: center;
-  font-family: pixel;
-  font-size: 1.65rem;
-  letter-spacing: 0.01rem;
+
+@keyframes blinker {
+  50% {
+    background-color: #f00;
+  }
 }
 
-footer li {
-  display: inline;
-  margin-left: 20px;
-}
+/* MEDIA QUERIES */
 
-footer a {
-  text-decoration: none;
-}
-
-hr {
-  margin-bottom: 30px;
-  max-width: 1000px;
-  border: solid 0.1px white;
+@media all and (max-width: 699px){
+  html{
+    font-size: 75%;
+  }
 }
