@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pitschers bedroom</title>
+
+    <meta name="description" content="online and offline exhibition space for the wrong digital art biennale" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="squatted.online">
+    <meta name="twitter:description" content="online and offline exhibition space for the wrong digital art biennale">
+    <!-- Twitter Summary card images must be at least 120x120px -->
+    <meta name="twitter:image" content="https://squatted.online/staircase/floor_1/library/img/squatted.png">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="squatted.online" />
+    <meta property="og:type" content="art gallery" />
+    <meta property="og:url" content="https://squatted.online" />
+    <meta property="og:image" content="https://squatted.online/staircase/floor_1/library/img/squatted.png" />
+    <meta property="og:description" content="online and offline exhibition space for the wrong digital art biennale" />
+    <link rel="stylesheet" href="/../../style.css">
+
+    <script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+    <style>
+        #drawer-button{
+            position: fixed;
+            top: 45px;
+            right: 30px;
+            font-size: 2em;
+            z-index: 10;
+            background-color: blue;
+            padding: 7px 10px 10px 10px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="bg-iframe">
+        <div id="pawsmenu"></div>
+        <script type="text/javascript">
+            const options = {
+                width: window.innerWidth,
+                height: window.innerHeight,
+                channel: "pi43r",
+            };
+            const player = new Twitch.Player("pawsmenu", options);
+            player.setVolume(0.0);
+        </script>
+    </div>
+
+    <div id="drawer-button" class="blink">
+        <a href="./drawer/index.html">Look at /drawer</a>
+    </div>
+    <script src="/js/scripts.js"></script>
+</body>
+
+</html>

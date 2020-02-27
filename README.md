@@ -51,17 +51,21 @@ The extension has a certain probability of modifying the web pages visited by th
 #### Vernissage Friday 28th 7PM
 
 #### Hours<br>
-Friday 28: 7PM – 11 PM
-Saturday: 13 PM – 11 PM
-Sunday: 13 PM – 7 PM
+Friday 28: 7PM – 11PM<br>
+Saturday: 1PM – 10PM<br>
+Sunday: 1PM – 5PM<br>
 
 #### Artists & Projects
 
-@_pitscher, Cybersquat<br>
-La scuola Open Source, Bemused 90.63%<br>
-Tsila hassine, Shmoogle<br>
-Winnie Yoe, Narratives of Resistance & Resilience<br>
-Theetat Thunkijjanukij, noplanet<br>
+Alex Zhang<br>
+La Scuola Open Source --> Bemused 90.63%<br>
+Maxim Stähelin --> RC-Toy<br>
+pitscher --> Cybersquat<br>
+Michael Berto --> The Geography<br>
+Noviki --> The Node<br>
+Theetat Thunkijjanukij --> nopeplanet<br>
+Tsila hassine --> Shmoogle<br>
+Winnie Yoe --> Magnetic Bullshit<br>
 
 ----------------------------------
 

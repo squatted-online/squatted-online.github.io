@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drawer</title>
+    
+    <meta name="description" content="online and offline exhibition space for the wrong digital art biennale" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="squatted.online">
+    <meta name="twitter:description" content="online and offline exhibition space for the wrong digital art biennale">
+    <!-- Twitter Summary card images must be at least 120x120px -->
+    <meta name="twitter:image" content="https://squatted.online/staircase/floor_1/library/img/squatted.png">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="squatted.online" />
+    <meta property="og:type" content="art gallery" />
+    <meta property="og:url" content="https://squatted.online" />
+    <meta property="og:image" content="https://squatted.online/staircase/floor_1/library/img/squatted.png" />
+    <meta property="og:description" content="online and offline exhibition space for the wrong digital art biennale" />
+    <link rel="stylesheet" href="/../../style.css">
+
+    <style>
+        .fullscreen{
+            width: 100vw;
+            height: 100vh;
+        }
+        .drawer-container{
+            position: fixed;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .centercenter{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .top{
+            width: 50%;
+            height: 200px;
+            background-color: rgb(185, 95, 30);
+            z-index: 10;
+            transform: perspective(600px) rotateX(35deg) scaleX(1) translateZ(-115px) translateY(64px);
+        }
+        .front{
+            width: 50%;
+            height: 500px;
+            margin-top: 100px;
+            background-color: chocolate;
+            transform: perspective(600px);
+        }
+        .drawer{
+            width: 80%;
+            height: 90px;
+            margin-bottom: 10px;
+            background-color: rgb(185, 95, 30);
+            border-radius: 9px;
+        }
+        .journal{
+            margin-left: -30%;
+            width: 110px;
+            height: 140px;
+            background-color: cornsilk;
+            padding: 5px;
+            text-align: center;
+            color: rgb(68, 47, 31);
+            text-decoration: none !important;
+            transform: rotateZ(1deg);
+            box-shadow: 
+                1px 1px 0 rgb(117, 94, 78),
+                2px 2px 0 rgb(117, 94, 78),
+                3px 3px 0 rgb(117, 94, 78),
+                4px 4px 0 rgb(117, 94, 78),
+                5px 5px 0 rgb(117, 94, 78),
+                6px 6px 0 rgb(117, 94, 78)
+            ;
+        }
+        .knauf{
+            width: 20px;
+            height: 20px;
+            background-color: rgb(148, 77, 26);
+            border-radius: 50%;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container" style="z-index:99;">
+        <div class="title-center">
+            This is the drawer.
+        </div>
+    </div>
+    <div class="drawer-container fullscreen">
+        <div class="top centercenter">
+            <a href="journal/index.html">
+                <div class="journal"> <br> pitscher's journal</div>
+            </a>
+        </div>
+        <div class="front centercenter">
+            <div class="drawer centercenter" onclick="stopthat()">
+                <div class="knauf"></div>
+            </div>
+            <div class="drawer centercenter" onclick="stopthat()">
+                <div class="knauf"></div>
+            </div>
+            <div class="drawer centercenter" onclick="stopthat()">
+                <div class="knauf"></div>
+            </div>
+            
+        </div>
+    </div>
+
+    <script>
+        const answers = [
+            "Hey, stop looking through my stuff!",
+            "Please don't look in there",
+            "There's nothing",
+            "Nothing there, I swear!",
+            "Please don't",
+            "Do you have no manners?",
+            "Nope",
+            "Stop that!",
+            "😨",
+            "Locked."
+        ];
+        function stopthat(){
+
+            alert(answers[Math.floor(Math.random() * answers.length)]);
+        }
+    </script>
+</body>
+</html>
