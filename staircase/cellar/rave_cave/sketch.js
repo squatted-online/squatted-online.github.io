@@ -111,24 +111,54 @@ function draw() {
     const bass_freq = parseFloat(document.getElementById('bass-lpf').value);
     bass_filter.freq(bass_freq);
 
-    if (hh.isPlaying() && hh.currentTime() != 0){
+    if (hh.isPlaying() && hh.currentTime() != 0) {
         panels[0].style.boxShadow = '7px 7px #ff3';
         panels[1].style.boxShadow = '7px 7px #ff3';
-    }else{
+    } else {
         panels[0].style.boxShadow = '5px 5px #f33';
         panels[1].style.boxShadow = '5px 5px #f33';
     }
 
-    if (clap.isPlaying() && clap.currentTime() != 0){
+    if (clap.isPlaying() && clap.currentTime() != 0) {
         document.querySelector('.claps').style.visibility = 'visible';
-    }else{
+    } else {
         document.querySelector('.claps').style.visibility = 'hidden';
     }
 
-    if (bass.isPlaying() && bass.currentTime() != 0){
+    if (bass.isPlaying() && bass.currentTime() != 0) {
         document.body.style.backgroundColor = '#3ff';
-    } else{
+    } else {
         document.body.style.backgroundColor = '#33f';
+    }
+}
+
+function make_random_pattern() {
+    const hh_inputs = hh_elt.childNodes;
+    const clap_inputs = clap_elt.childNodes;
+    const bass_inputs = bass_elt.childNodes;
+    let index = 0;
+    for (const node of hh_inputs) {
+        if (Math.random() < 0.5) {
+            node.checked = true
+        } else {
+            node.checked = false
+        }
+    }
+    index = 0;
+    for (const node of clap_inputs) {
+        if (Math.random() < 0.5) {
+            node.checked = true
+        } else {
+            node.checked = false
+        }
+    }
+    index = 0;
+    for (const node of bass_inputs) {
+        if (Math.random() < 0.5) {
+            node.checked = true
+        } else {
+            node.checked = false
+        }
     }
 }
 
@@ -142,4 +172,11 @@ function keyPressed() {
             }
         }
     }
+    make_random_pattern()
 }
+
+function mousePressed(){
+    make_random_pattern()
+}
+
+setInterval(make_random_pattern, 5000)
