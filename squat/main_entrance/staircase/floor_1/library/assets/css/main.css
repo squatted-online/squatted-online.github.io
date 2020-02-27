@@ -24,19 +24,33 @@ html {
 }
 
 body {
-  padding: 0;
-  margin: 0;
   background-color: #33f;
   background-repeat: no-repeat;
   color: #eee;
 }
 
+header {
+  line-height: 6rem;
+}
+
+header h2 {
+  line-height: 3rem;
+}
+
+em {
+  font-style: italic;
+}
+
 h1 {
-  font-size: 3rem;
+  font-size: 4.5rem;
 }
 
 h2 {
   word-break: break-all;
+  font-size: 3rem;
+}
+
+h3 {
   font-size: 2rem;
 }
 
@@ -85,16 +99,24 @@ footer a {
   min-width: 300px;
   max-width: 900px;
   margin: auto;
-  background-color: #33fa;
   text-overflow: ellipsis;
 }
 
 .title-center {
   text-align: center;
-  /* font-size: 2rem;
-  line-height: 1.5rem; */
-  padding: 0.5rem;
 }
+
+.intro-text {
+  text-align: center;
+  margin-top: 30px;
+  color: red;
+  font-size: 2rem;
+}
+
+.intro-text h3 {
+  margin-top: 30px;
+}
+
 
 .utopia {
   width: 100%;
@@ -148,14 +170,15 @@ footer a {
 
 .submit {
   text-align: center;
-  margin: 20px;
+  margin: 30px auto;
   font-size: 4rem;
-  letter-spacing: 5px;
+  letter-spacing: 1px;
   background-color: #ccc;
-  padding: 1.5rem;
-  border-radius: 50px;
+  padding: 1.5rem 10rem;
+  border-radius: 75px;
   line-height: 4rem;
   border: 2px solid #00f;
+  width: fit-content;
 }
 
 .submit a {
@@ -180,15 +203,20 @@ p.highlight {
   font-size: 1.2rem;
 }
 
-.map{
+.map {
   text-align: left;
-  font-family: Courier, monospace;
-  font-size: 0.85rem;
-  line-height: 0.85rem;
-  padding-bottom: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+  line-height: 1rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  margin: 30px auto;
+}
+
+.map h2 {
+  font-family: 'pixel', 'Courier New', Courier, monospace;
+  line-height: 2.5rem;
 }
 
 .bg-iframe{
@@ -210,13 +238,6 @@ p.highlight {
   text-transform: uppercase;
   font-weight: 900;
 }
-
-.intro-text {
-  margin-top: 30px;
-  color: red;
-  font-size: 1.6rem;
-}
-
 
 @keyframes blinker {
   50% {
