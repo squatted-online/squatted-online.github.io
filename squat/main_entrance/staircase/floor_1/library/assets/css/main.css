@@ -58,8 +58,18 @@ i {
   color: #f00;
 }
 
+p {
+  font-size: 2rem;
+}
+
 a {
   color: #0f0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  font-style: italic;
 }
 
 ul li {
@@ -67,16 +77,17 @@ ul li {
 }
 
 hr {
-  margin-bottom: 30px;
-  max-width: 1000px;
-  border: solid 0.1px white;
+  margin: 30px auto;
+  padding: 0 60px;
+  max-width: 900px;
+  width: 100%;
+  border: solid 0.1px rgba(255, 255, 255, 0.25);
 }
 
 footer {
   margin-bottom: 30px;
   text-align: center;
-  font-size: 1.65rem;
-  letter-spacing: 0.01rem;
+  font-size: 1.25rem;
 }
 
 footer li {
@@ -181,12 +192,32 @@ footer a {
   width: fit-content;
 }
 
-.submit a {
-  color: #00f;
+.residents {
+  line-height: 3rem;
 }
 
-.submit a:hover {
-  color: #f00;
+.squatter {
+  border: dotted 0.35rem red;
+  border-radius: 75px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.program h1 {
+  margin-bottom: 15px;
+}
+.program h2 {
+  margin-bottom: 15px;
+}
+
+address a {
+  font-size: 2rem;
+}
+
+.submit a {
+  color: #00f;
 }
 
 .footnotes {
@@ -207,11 +238,12 @@ p.highlight {
   text-align: left;
   font-family: 'Courier New', Courier, monospace;
   font-size: 1rem;
-  line-height: 1rem;
+  line-height: 1.1rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   margin: 30px auto;
+  margin-bottom: 0;
 }
 
 .map h2 {
@@ -230,13 +262,18 @@ p.highlight {
   text-align: left;
 }
 
-.blink {
+.blink-project {
   animation: blinker 1s step-start infinite;
 }
 
 .squat-room {
   text-transform: uppercase;
-  font-weight: 900;
+  font-weight: 600;
+}
+
+.name-project {
+  color: red;
+  text-transform: uppercase;
 }
 
 @keyframes blinker {
