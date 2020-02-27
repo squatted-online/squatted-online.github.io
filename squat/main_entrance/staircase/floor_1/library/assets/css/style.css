@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'pixel';
-  src: url('../../squat/main_entrance/staircase/floor_1/library/fonts/PxPlus_VGA_SquarePx.woff'),
-    url('../../squat/main_entrance/staircase/floor_1/library/fonts/PxPlus_VGA_SquarePx.woff');
+  src: url('../../fonts/PxPlus_VGA_SquarePx.woff'),
+    url('../../fonts/PxPlus_VGA_SquarePx.woff');
 }
 
 /* SCROLLBAR */
