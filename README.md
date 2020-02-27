@@ -1,7 +1,7 @@
 # [squatted.online](https://squatted.online)
 
-<b>Embassy 🎪 for [the wrong digital art biennale 2020](http://thewrong.org)<b>
-reflecting on the possibilities of squatting digital spaces</b>
+__Embassy 🎪 for [the wrong digital art biennale 2020](http://thewrong.org)
+reflecting on the possibilities of squatting digital spaces__
 
 ## Abstract
 
@@ -62,7 +62,7 @@ Sunday: 1PM – 5PM<br>
 * Maxim Stähelin => RC-Toy
 * pitscher => Cybersquat
 * Michael Berto => The Geography
-* Noviki --> The Node
+* Noviki => The Node
 * Theetat Thunkijjanukij => nopeplanet
 * Tsila hassine => Shmoogle
 * Winnie Yoe => Magnetic Bullshit — Hong Kong Police Edition
