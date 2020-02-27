@@ -56,9 +56,11 @@ function setup() {
     hh_phrase = new p5.Phrase('hh', (time) => {
         hh.play(time)
     }, hh_pattern);
+
     clap_phrase = new p5.Phrase('clap', (time) => {
         clap.play(time)
     }, clap_pattern);
+    
     bass_phrase = new p5.Phrase('bass', (time) => {
         bass.play(time)
     }, bass_pattern);
