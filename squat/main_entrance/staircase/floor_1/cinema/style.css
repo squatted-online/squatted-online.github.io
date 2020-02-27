@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'pixel';
+    src: url('../library/fonts/PxPlus_VGA_SquarePx.ttf'), url('../library/fonts/PxPlus_VGA_SquarePx.woff');
+}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    background: #33f;
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: #fff;
+}
+
+* {
+    box-sizing: border-box;
+    scrollbar-color: #fff #33f;
+}
+
+html {
+    font-size: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #33f;
+    color: #eee;
+}
+
+p, li, ul, h2, span {
+    margin: 0px;
+}
+.container{
+    position: fixed;
+    display: flex;
+    /* justify-content: center;
+    align-items: center;
+    align-content: center; */
+    width: 100%;
+    height: 100vh;
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 60%;
+    height: auto;
+    transform: perspective(1000px) rotateY(-45deg) translateZ(0px);
+}
+.video-player{
+    /* position: absolute; */
+    /* top: 0px; */
+    /* right: 0px; */
+    width:640px;
+    height:360px;
+    box-shadow: 10px 10px #000;
+}
+
+
+.container div.description{
+    width: 40%;
+    padding: 1rem;
+    /* transform: perspective(1500px) rotateY(-45deg) translateX(0px);
+    transform-origin: 0% 50%; */
+}
+.description h3, .description h4{
+    font-family: 'pixel', monospace;
+}

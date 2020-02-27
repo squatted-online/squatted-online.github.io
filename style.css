@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'pixel';
-  src: url('fonts/PxPlus_VGA_SquarePx.ttf'),
-    url('fonts/PxPlus_VGA_SquarePx.woff');
+  src: url('squat/main_entrance/staircase/floor_1/library/fonts/PxPlus_VGA_SquarePx.woff'),
+    url('staircase/floor_1/library/fonts/PxPlus_VGA_SquarePx.woff');
 }
 
 /* SCROLLBAR */
@@ -29,8 +29,13 @@ html {
 body {
   padding: 0;
   margin: 0;
+<<<<<<< HEAD
   /* background-color: #33f; */
   background-image: url('img/pirate.gif');
+=======
+  background-color: #33f;
+  /* background-image: url('staircase/floor_1/library/img/pirate.gif'); */
+>>>>>>> 74b1ed73075e71c3b7a3271633108e402a97118f
   background-repeat: no-repeat;
   /* background-size: cover; */
   /* background-position: center; */
@@ -44,6 +49,7 @@ h2,
 span {
   margin: 0px;
 }
+
 h2 {
   word-break: break-all;
 }
@@ -54,14 +60,16 @@ a {
   color: #0f0;
 }
 .container {
+  position: relative;
+  z-index: 99;
   display: flex;
   flex-direction: column;
   align-content: center;
-  width: 50%;
   min-width: 300px;
-  max-width: 700px;
+  max-width: 900px;
   margin: auto;
-  background-color: #33f;
+  background-color: #33fa;
+  text-overflow: ellipsis;
 }
 .title-center {
   /* position: fixed; */
@@ -167,9 +175,82 @@ p.highlight {
   width: 100%;
   font-size: 1.2rem;
 }
+.map{
+  text-align: left;
+  font-family: Courier, monospace;
+  font-size: 0.85rem;
+  line-height: 0.85rem;
+  padding-bottom: 30px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bg-iframe{
+  z-index: 0;
+  position: fixed;
+  margin: auto;
+  top: 0px;
+}
+
+.align-left{
+  text-align: left;
+}
+
+ul{
+  list-style-type: none;
+}
+
+ul li {
+  padding-top: 15px;
+}
+
+.blink {
+  animation: blinker 1s step-start infinite;
+}
+
+@keyframes blinker {
+  50% {
+    background-color: #f00;
+  }
+}
 
 @media all and (max-width: 699px){
   html{
     font-size: 75%;
   }
+}
+
+.squat-room {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.intro-text {
+  margin-top: 30px;
+  color: red;
+  font-size: 1.6rem;
+}
+
+footer {
+  margin-bottom: 30px;
+  text-align: center;
+  font-family: pixel;
+  font-size: 1.65rem;
+  letter-spacing: 0.01rem;
+}
+
+footer li {
+  display: inline;
+  margin-left: 20px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+
+hr {
+  margin-bottom: 30px;
+  max-width: 1000px;
+  border: solid 0.1px white;
 }

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>meta-html</title>
+</head>
+
+<body>
+
+  <div>
+    // alex zhang 2019 <br>
+    // try to type "off"
+  </div>
+  <script spellcheck="false" style="display: block;" class="script">
+    document.designMode = "on";    
+  </script>
+  <div>
+    // careful, it's javascript!</div>
+  <script>
+
+
+    const script_content = document.getElementsByClassName('script');
+    window.onkeyup = (el) => {
+      const script = script_content[script_content.length - 1];
+      const result = eval(script.textContent);
+      console.log(result);
+    }
+  </script>
+  <style>
+    body {
+      margin: 0px;
+      padding: 0px;
+      font-family: monospace;
+      font-size: 2rem;
+    }
+  </style>
+  <style spellcheck="false">
+    script {
+      margin: 0px;
+      width: 100%;
+      height: auto;
+      color: #00f;
+      line-height: normal;
+    }
+  </style>
+
+</body>
+
+</html>

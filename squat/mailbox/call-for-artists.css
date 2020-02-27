@@ -1,0 +1,49 @@
+
+body {
+    background-color: black;
+    color: white;
+    margin: 30px;
+}
+
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+}
+
+.text {
+    max-width: 1000px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.call {
+    line-height: 1.5;
+}
+
+.footnote {
+    font-size: 12px;
+    max-width: 700px;
+    line-height: 2;
+    margin-left: 30px;
+}
+
+#note{
+    color: red;
+}
+
+hr {
+    border: solid 0.1px white;
+    max-width: 100%;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
