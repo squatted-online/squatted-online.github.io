@@ -84,8 +84,6 @@
 
     /*--------------------------------------------------------------------------------------*/
 
-
-
     /* uncomment this par to see the baseline : -------------------------------------------*/
 
     /* 
@@ -103,28 +101,55 @@
     /*--------------------------------------------------------------------------------------*/
 }
 
-@media print{
+@media print {
     @page {
         size: A5;
         margin: 10mm 15mm;
-      }
+    }
     @page:left {
-        margin-left: 35mm;
-        margin-right: 15mm;
+        margin-left: 15mm;
+        margin-right: 25mm;
     }
     @page:right {
-        margin-left: 15mm;
-        margin-right: 35mm;
+        margin-left: 25mm;
+        margin-right: 15mm;
     }
-    section{
+    section {
         break-before: page;
     }
-    .break-right{
+    .break-right {
         break-before: right;
     }
 }
 
-#cover-title{
+#cover-title {
     font-size: 3em;
     margin-top: 15vh;
+}
+
+section {
+    font-family: "Fontlab", fantasy;
+}
+
+ul {
+    list-style-type: square;
+}
+
+p {
+    line-height: 1.8;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+h1 {
+    font-size: 1.9em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid black;
 }
