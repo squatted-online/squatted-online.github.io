@@ -19,7 +19,7 @@
 /* ELEMENTS */
 
 html {
-  font-size: 14px;
+  font-size: 100%;
   font-family: 'pixel', monospace;
 }
 
@@ -41,15 +41,15 @@ em {
 }
 
 h1 {
-  font-size: 4.5rem;
-}
-
-h2 {
   font-size: 3rem;
 }
 
-h3 {
+h2 {
   font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
 }
 
 i {
@@ -57,7 +57,7 @@ i {
 }
 
 p {
-  font-size: 2rem;
+  /* font-size: 2rem; */
 }
 
 a {
@@ -97,7 +97,13 @@ footer a {
   text-decoration: none;
 }
 
+
 /* CLASSES */
+
+.monospace{
+  font-size: 0.85rem;
+  font-family: Courier, monospace;
+}
 
 .container {
   position: relative;
@@ -237,8 +243,9 @@ p.highlight {
 }
 
 .map {
+  width: 100%;
   text-align: left;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: monospace;
   font-size: 1rem;
   line-height: 1.1rem;
   white-space: nowrap;
@@ -249,7 +256,7 @@ p.highlight {
 }
 
 .map h2 {
-  font-family: 'pixel', 'Courier New', Courier, monospace;
+  font-family: 'pixel', monospace;
   line-height: 2.5rem;
 }
 
@@ -286,16 +293,14 @@ p.highlight {
 
 /* MEDIA QUERIES */
 
-@media all and (max-width: 939px) {
+@media all and (max-width: 620px) {
   
   html {
-    font-size: 12px;
+    font-size: 75%;
   }
-  
-  body {
-    padding: 30px;
+  .container{
+    padding: 0.5rem;
   }
-
 }
 
 @media all and (max-width: 620px) {
@@ -304,10 +309,12 @@ p.highlight {
     margin: 30px auto;
     font-size: 4rem;
     letter-spacing: 0px;
-    padding: 1rem 7.5rem;
+    /* padding: 1rem 7.5rem; */
     border-radius: 75px;
     line-height: 3rem;
-    width: fit-content;
+    width: 100%;
+    max-width: 200px;
+    /* width: fit-content; */
   }
 
   .squatter {
