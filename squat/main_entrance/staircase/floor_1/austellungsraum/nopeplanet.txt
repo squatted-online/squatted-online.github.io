@@ -1,0 +1,24 @@
+**********
+* artist *
+**********
+
+Theetat Thunkijjanukij
+
+*********
+* title *                                     
+*********                                      
+
+nopeplanet
+
+***********
+* website *
+***********
+
+http://xn--1xa.wtf
+theetat.th@gmail.com
+
+***************
+* description *
+***************
+
+In 1998, NASA released the color global view of Mars onto the internet (https://mars.nasa.gov/resources/7808/global-color-views-of-mars/) which anybody could download. At a time when real-estate and owning property is rarely tangible, we can possess all of Mars’ pixels. Using the process of image inpainting, I enlarged the image to 29528*20669px, which is as large as my computer could process. The project is titled ‘nopeplanet’ since the resulting image is not of Mars anymore but of an unidentifiable vast. The number of time an individual tile is clicked is tracked to show the traffic that occurs in each sector of this ‘planet’.

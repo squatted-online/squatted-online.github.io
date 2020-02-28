@@ -1,0 +1,24 @@
+**********
+* artist *
+**********
+      
+Noviki
+
+*********
+* title *                                     
+*********                                      
+  
+The Node
+
+***********
+* website *
+***********
+
+http://www.noviki.net/
+noviki@noviki.net
+
+***************
+* description *
+***************
+
+If we compare the architecture of a city to the peer-to-peer, a popular network of information exchange, or GANs (Generative Adversarial Networks) we can recognize the city’s largest squares as its primary junctions (Nodes). We are looking towards the future revolution of communication, where the next steps are possible to bring in new models of constellation. City nodes as models may well take on a more virtual, imagined presence, influencing the future shape of the urban landscape and the role of digital architecture itself.

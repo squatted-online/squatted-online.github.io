@@ -1,0 +1,23 @@
+**********
+* artist *
+**********
+
+Tsila Hassine
+
+*********
+* title *                                     
+********* 
+
+Shmoogle
+
+***************
+* description *
+***************
+
+Shmoogle is a rank free search engine.
+
+What does “rank free” mean? It means that it does not rank the results in any preferred order. There’s no algorithm that decides who gets to be world famous, and who will join the other 99%. All results have the same chance to be placed at the top (or bottom).
+
+No bias. No sponsored links. No long tail.
+
+Pure search.

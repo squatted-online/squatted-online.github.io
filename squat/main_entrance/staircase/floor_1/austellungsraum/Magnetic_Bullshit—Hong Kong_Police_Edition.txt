@@ -1,0 +1,30 @@
+**********
+* artist *
+**********
+
+Winnie Yoe 
+
+*********
+* title *                                     
+*********                                      
+ 
+Magnetic Bullshit — Hong Kong Police Edition
+
+***********
+* website *
+***********
+
+https://www.winnieyoe.com
+winnayoe@gmail.com
+
+***************
+* description *
+***************
+
+2019-2020
+Computer-generated text, Magnetic sheets
+Dimensions variable 
+
+Referencing the popular writing aid Magnetic Poetry, Magnetic Bullshit— Hong Kong Police Edition is a fridge magnet kit featuring the 300+ most popular words gleaned from over 120 Hong Kong police press conference transcripts since August 2019. While the press conferences are mostly conducted in Cantonese, Chinese state-owned news channel had uploaded videos on YouTube with English simultaneous interpretation. 
+The artist then used a command-line program to scrape the automatic captions to compile a 627-page source text. While the compiled text is not perfect, there is a parallel between a machine-generated text and an authoritarian narrative. 
+Participants could start any sentences with “Hong Kong Police”. You can freely can create your interpretation of the police’s narrative, reveal your version of truth, or even “receive” an apology.

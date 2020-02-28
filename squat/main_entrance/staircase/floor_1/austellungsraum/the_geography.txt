@@ -1,0 +1,35 @@
+**********
+* artist *
+********** 
+
+Michael Berto
+
+*********
+* title *                                     
+********* 
+
+The Geography
+
+***********
+* website *
+***********
+
+www.pawsmenu.net
+
+***************
+* description *
+***************
+
+The Geography by Michael Berto
+An Endless Non-Linear Orchestration
+Streaming 24/7 for the month of February 2020
+
+The Geography is a visual musical companion, featuring an endless and non-linear evolving musical score. Using geographic data from real-world location rendered into low-poly landscapes brought to life with soft shaders, The Geography is an electronic orchestration that plays forever, always re-organising itself, always changing and creating ambient sound baths. Musically, The Geography is not limited to any genre, but in it's current form uses many electronic instruments such as synthesisers to create it's various seeds.
+
+The idea of The Geography came from wanting to create a meditative, companion-like piece of software, a kind of self-care dada-ist installation; self-care art for self-care art's sake. The idea to create something soft, musical, and endless, something that can fill a room, or simply fill your ears with something calming, that is ever changing, but always familiar. A piece of tend-and-befriend software, for self care, as well as for communal peace. A portable geographic landscape, and an endlessly custom and soothing soundscape.
+
+For the month of February The Geography will be presented as an endless stream, pre-designing the experience to a custom configuration to allow for an incredibly various month of ambient soundbath and soft geographic landscapes.
+
+Concept: Michael Berto - www.pawsmenu.net
+Code: Titouan Millet - https://titouanm.com/
+Music: Paws Menu and t e l e p a t h - https://virtualdreamplaza.com/
