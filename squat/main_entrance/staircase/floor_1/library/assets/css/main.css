@@ -1,0 +1,334 @@
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 7px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0f05;
+}
+
+* {
+  box-sizing: border-box;
+  scrollbar-color: #0f05 #000;
+}
+
+/* ELEMENTS */
+
+html {
+  font-size: 14px;
+  font-family: 'pixel', monospace;
+}
+
+body {
+  background-color: #33f;
+  color: #eee;
+}
+
+header {
+  line-height: 6rem;
+}
+
+header h2 {
+  line-height: 3rem;
+}
+
+em {
+  font-style: italic;
+}
+
+h1 {
+  font-size: 4.5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+i {
+  color: #f00;
+}
+
+p {
+  font-size: 2rem;
+}
+
+a {
+  color: #0f0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  font-style: italic;
+}
+
+ul li {
+  padding-top: 15px;
+}
+
+hr {
+  margin: 30px auto;
+  padding: 0 60px;
+  max-width: 900px;
+  width: 100%;
+  border: solid 0.1px rgba(255, 255, 255, 0.25);
+}
+
+footer {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+footer li {
+  display: inline;
+  margin-left: 20px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+/* CLASSES */
+
+.container {
+  position: relative;
+  z-index: 99;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  min-width: 300px;
+  max-width: 900px;
+  margin: auto;
+  text-overflow: ellipsis;
+}
+
+.title-center {
+  text-align: center;
+}
+
+.intro-text {
+  text-align: center;
+  margin-top: 30px;
+  color: red;
+  font-size: 2rem;
+}
+
+.intro-text h3 {
+  margin-top: 30px;
+}
+
+
+.utopia {
+  width: 100%;
+  margin: auto;
+  position: fixed;
+  z-index: 0;
+}
+
+.call {
+  /* background-color: #222; */
+  border: dashed 2px #eee;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  text-align: left;
+  padding: 0.5rem;
+  /* box-shadow: #222 0px 0px 50px 70px */
+  /* background-color: rgba(0, 0, 0, 0.5); */
+}
+
+.vpcontainer {
+  z-index: -1;
+  height: 150vh;
+  width: 100%;
+  position: absolute;
+  top: 150px;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0) 0%,
+    rgb(0, 0, 0) 33%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+.vplogo {
+  width: 80%;
+  height: 100vh;
+  background-image: url('http://virtualpalestine.net/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B4%D9%81%D8%A7%D9%81.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+.call p {
+  /* font-size: 2rem; */
+  /* color: #f00; */
+  text-indent: 20px;
+  width: 90%;
+  margin: auto;
+}
+
+.submit {
+  text-align: center;
+  margin: 30px auto;
+  font-size: 4rem;
+  letter-spacing: 1px;
+  background-color: #ccc;
+  padding: 1.5rem 10rem;
+  border-radius: 75px;
+  line-height: 4rem;
+  border: 2px solid #00f;
+  width: fit-content;
+}
+
+.submit h2 {
+  color: blue;
+}
+
+.residents {
+  line-height: 3rem;
+}
+
+.squatter {
+  border: dotted 0.35rem red;
+  border-radius: 75px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.program h1 {
+  margin-bottom: 15px;
+}
+.program h2 {
+  margin-bottom: 15px;
+}
+
+address a {
+  font-size: 2rem;
+}
+
+.submit a {
+  color: #00f;
+}
+
+.footnotes {
+  border-top: solid 2px #0f0;
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+p.highlight {
+  /* font-family: Helvetica, sans-serif; */
+  color: #fff;
+  font-style: italic;
+  width: 100%;
+  font-size: 1.2rem;
+}
+
+.map {
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+  line-height: 1.1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 30px auto;
+  margin-bottom: 0;
+}
+
+.map h2 {
+  font-family: 'pixel', 'Courier New', Courier, monospace;
+  line-height: 2.5rem;
+}
+
+.bg-iframe{
+  z-index: 0;
+  position: fixed;
+  margin: auto;
+  top: 0px;
+}
+
+.align-left{
+  text-align: left;
+}
+
+.blink-project {
+  animation: blinker 1s step-start infinite;
+}
+
+.squat-room {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.name-project {
+  color: red;
+  text-transform: uppercase;
+}
+
+@keyframes blinker {
+  50% {
+    background-color: #f00;
+  }
+}
+
+/* MEDIA QUERIES */
+
+@media all and (max-width: 939px) {
+  
+  html {
+    font-size: 12px;
+  }
+  
+  body {
+    padding: 30px;
+  }
+
+}
+
+@media all and (max-width: 620px) {
+
+  .submit {
+    margin: 30px auto;
+    font-size: 4rem;
+    letter-spacing: 0px;
+    padding: 1rem 7.5rem;
+    border-radius: 75px;
+    line-height: 3rem;
+    width: fit-content;
+  }
+
+  .squatter {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  footer {
+    margin-bottom: 15px;
+  }
+
+}
+
+@media all and (max-width: 565px) {
+
+  .submit {
+    font-size: 3rem;
+  }
+
+  footer {
+    margin-bottom: 10px;
+  }
+
+}
