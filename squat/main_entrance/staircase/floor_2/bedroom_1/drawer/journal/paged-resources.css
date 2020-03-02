@@ -99,6 +99,22 @@
     */
 
     /*--------------------------------------------------------------------------------------*/
+
+    .print-button{
+        padding: 5px;
+        color: blueviolet;
+        font-family: "Fontlab", monospace;
+        font-size: 1.5em;
+        background-color: aliceblue;
+        box-shadow: 2px 2px 2px blueviolet;
+        transform: rotateZ(-14deg);
+        z-index: 999;
+        visibility: visible !important;
+    }
+    .print-button:hover{
+        box-shadow: 0 0 0 white;
+    }
+    
 }
 
 @media print {
@@ -123,7 +139,11 @@
     .break-left{
         break-before: left;
     }
+    .print-button{
+        visibility: hidden;
+    }
 }
+
 
 #cover-title {
     font-size: 3em;

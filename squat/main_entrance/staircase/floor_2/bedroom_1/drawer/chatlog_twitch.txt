@@ -1,0 +1,1164 @@
+# Log started: 2020-02-24 01:31:53 +0100
+Joining #pi43r..
+You have joined #pi43r
+~Squatting Twitch  +_+ (Art)~
+<~pi43r> Now I am using a crazy chatclient called chatty, so no more chats will be lost =] See you all tomorrow, thanks for hanging out today
+Stream marker created ('goodnight')
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+Viewerstats (08:33-08:33): avg:1 min:1 max:1 [1/1]
+~Stream offline~
+~Squatting Twitch  +_+ (Art)~
+Viewerstats (08:35-09:03): avg:0 min:0 max:1 [14/1_0+0+1-1+0+0+0+0+0+0+0+0+0]
+Viewerstats (09:05-09:33): avg:0 min:0 max:1 [15/0+0+0+0+0+1-1+0+0+1+0+0-1+0+0]
+Viewerstats (09:45-09:59): avg:0 min:0 max:1 [8/1+0+0+0-1+0+0+1]
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+~Stream offline~
+~Squatting Twitch  +_+ (Art)~
+Viewerstats (10:24-10:30): avg:1 min:1 max:2 [4/_2-1+0+0]
+<~pi43r> sooo sunny today :3
+<cccnrd> mooooin
+<cccnrd> looks good
+Viewerstats (10:32-11:00): avg:2 min:2 max:4 [15/2+0+1-1+0+0+0+2-1-1+0+0+1+1-2]
+<gamaster34> hey babe, how was your night?
+<gamaster34> hey!
+<gamaster34> when will the performance start?
+<gamaster34> booring shit! why is this called "Art"?
+Viewerstats (11:02-11:30): avg:3 min:3 max:4 [15/4+0-1+0+0+0+0+0+0+0+0+0+0+0+0]
+<gamaster34> ciao
+<~pi43r> ah, sorry @gamaster34 performance is happening R)
+Viewerstats (11:32-12:00): avg:2 min:2 max:3 [15/3+0-1+0+0+0+0+0+0+1-1+0+1+0+0]
+<gamaster34> oh, performance has started???
+<~pi43r> always
+<gamaster34> were did they go?
+<gamaster34> yawning, scratching, yawning, lying... can't you do some thing exiting?
+Viewerstats (12:02-12:30): avg:3 min:2 max:6 [15/3-1+1+1-1+0+0+0+1-1+0+3-3+0+0]
+<~pi43r> We went to go see if we could get a loopstation, but the shop is closed today. I got invited for lunch later, though.
+Viewerstats (12:32-13:00): avg:2 min:1 max:4 [15/3+0+0+0+0-1-1+3-3+0+0+0+0+1-1]
+Viewerstats (13:02-13:30): avg:1 min:1 max:2 [15/1+0+0+0+0+0+0+0+0+0+0+1-1+1+0]
+<muimota> hey where is pi43r?
+<~pi43r> Toilet ;)
+<wassilychair> @pi43r can you still use Douyin?
+<~pi43r> let me check
+<~pi43r> seems to work
+<~pi43r> what does it mean? #在抖音，记录美好生活#疫情当前，竟有人殴打防疫人员，太恶劣了！必须严惩#严惩 #战胜疫情dou行动 https://v.douyin.com/GQH5vk/ 复制此链接，打开【抖音短视频】，直接观看视频！
+<lazy_girl93> hey
+<~pi43r> hey lazy_girl93
+<wassilychair> wow, cause I cannot even download it on my phone, I would need a chinese apple ID again
+<lazy_girl93> how are you?
+<~pi43r> @wassilychair no problem on android
+<~pi43r> I am well, currently adding some stuff to squatted.online
+<~pi43r> how are you?
+<wassilychair> Fabricio said you have to send him the pictures, don't know what kind of pictures is talking about OSFrog
+<~pi43r> It's on my list!
+<~pi43r> today for sure!
+<lazy_girl93> fine
+<lazy_girl93> you do Yoga?
+Viewerstats (13:32-14:00): avg:4 min:2 max:6 [15/3+2-3+2-1+1+0+1+0-1+1+0+0+0+1]
+<~pi43r> I should do some yoga, because my back hurts a bit
+<wassilychair> @pi43r I think I will borrow an android and I will make some screen recordings, I'm curious to see how it's going there right now
+<~pi43r> yep, lot's of people with face masks
+<lazy_girl93> me too i would like to do some
+<~pi43r> 5 more minutes then we can do it together =)
+<lazy_girl93> sure!
+<~pi43r> ok, I'm ready
+<~pi43r> https://www.youtube.com/watch?v=4C-gxOE0j7s
+<lazy_girl93> okay me too
+<lazy_girl93> morning yoga^^
+<~pi43r> that was great
+<~pi43r> Now, I am invited for lunch. But Fabian is coming later, so stay tuned!
+<lazy_girl93> yes!
+<lazy_girl93> bon appetit
+Viewerstats (14:02-14:30): avg:4 min:3 max:8 [15/5-2+2+3-3-1+0+0-1+1+1+0+0+1-3]
+<wassilychair> Fabian Frei? Looking forward to see him
+Viewerstats (14:32-15:00): avg:2 min:1 max:5 [15/3+1+1-1-1+0+0+0-1+0+0+1-2+1-1]
+Warning: Server not responding
+Viewerstats (15:02-15:30): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+<~pi43r> I'm back
+<~pi43r> @wassilychair no doxxing!
+Viewerstats (15:32-15:40): avg:1 min:1 max:1 [5/1+0+0+0+0]
+# Log closed: 2020-02-24 15:42:24 +0100
+-
+# Log started: 2020-02-24 17:03:58 +0100
+Joining #pi43r..
+~Squatting Twitch  +_+ (Art)~
+You have joined #pi43r
+<~pi43r> That was nice. Now back to work
+Viewerstats (17:03-17:33): avg:2 min:1 max:3 [17/2+0+0+0+0+0+0+0+0+1-1+1-1-1+0+2-1]
+Viewerstats (17:35-18:03): avg:2 min:2 max:3 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+1]
+Viewerstats (18:05-18:34): avg:2 min:2 max:3 [15/2+0+1+0-1+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (18:36-19:06): avg:2 min:2 max:3 [16/2+0+0+0+0+0+0+0+1-1+0+0+0+0+0+0]
+Viewerstats (19:08-19:36): avg:1 min:1 max:2 [15/2+0+0+0+0+0+0+0+0+0+0-1+0+0+0]
+<lazy_girl93> hi
+<~pi43r> hi lazy_girl93! I'm happy you are back
+<~pi43r> thanks for the yoga session this afternoon
+<lazy_girl93> its not me
+<~pi43r> haha, multiple personality disorder?
+<lazy_girl93> maybe...
+<lazy_girl93> you want to play
+<~pi43r> sure
+<~pi43r> play what?
+<lazy_girl93> truth or dare
+<~pi43r> truth
+<lazy_girl93> when you had your first kiss?
+<~pi43r> Just after I was got a kiss on the ass by my brother and sister <3
+<~pi43r> *born
+<~pi43r> Now you: Truth or dare?
+<lazy_girl93> dare
+<~pi43r> that's hard if I can not see it... But I dare you to kiss everyone who is in the room with you
+<lazy_girl93> it's done!
+<~pi43r> well done :D 
+<lazy_girl93> truth or dare?
+<~pi43r> dare
+<lazy_girl93> you have schnaps?
+<lazy_girl93> we would like to drink with you
+<~pi43r> no schnaps :( only beer
+<lazy_girl93> oh, who is this?
+<~pi43r> this is Yann
+<lazy_girl93> Hi Yann!
+Viewerstats (19:38-20:06): avg:4 min:1 max:7 [15/1+1+0+1+2-2+2+1+1-2+0+0-1-1+1]
+<lazy_girl93> can you wear the head of Yann?
+<lazy_girl93> cap*
+<lazy_girl93> B)
+<gamaster34> nobody home?
+Viewerstats (20:08-20:36): avg:3 min:1 max:5 [15/4+0-3+1+0+0+1+0+0+0+0+0+2+0+0]
+<~pi43r> back again. I was at the other exhibition place
+<~pi43r> how are you @gamaster34?
+<wassilychair> @pi43r where are you?
+<~pi43r> sitting on the bed
+Viewerstats (20:38-21:06): avg:4 min:4 max:5 [15/4+0+0+0+0+0+0+1+0+0+0+0+0+0+0]
+Viewerstats (21:08-21:38): avg:4 min:4 max:5 [16/4+0+0+1-1+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (21:40-22:08): avg:3 min:3 max:4 [15/4+0+0+0-1+0+0+0+0+0+0+0+0+1-1]
+Viewerstats (22:10-22:38): avg:3 min:3 max:3 [15/3+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (22:40-23:08): avg:3 min:2 max:4 [15/3+0+0+0-1+1+0+0+0+0+0+1-1+0+0]
+Viewerstats (23:10-23:38): avg:2 min:2 max:3 [15/3+0+0+0+0-1+0+0+0+1-1+0+0+0+0]
+Viewerstats (23:40-00:08): avg:2 min:2 max:3 [15/2+0+1-1+0+0+0+0+0+0+0+1-1+0+0]
+Viewerstats (00:10-00:38): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (00:40-01:08): avg:2 min:2 max:3 [15/2+1-1+1-1+0+0+0+0+0+0+0+0+0+0]
+Warning: Server not responding
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+Viewerstats (10:08-10:08): avg:1 min:1 max:1 [1/1]
+Viewerstats (10:10-10:38): avg:1 min:1 max:2 [15/1+1+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (10:40-11:08): avg:2 min:2 max:3 [15/2+0+0+0+0+0+1+0-1+1-1+0+0+0+0]
+<~pi43r> I go wash myself =) See you later
+Viewerstats (11:10-11:38): avg:2 min:2 max:3 [15/2+0+0+0+0+1-1+0+1-1+0+0+0+0+0]
+Viewerstats (11:40-12:08): avg:2 min:2 max:4 [15/2+0+0+0+0+0+1+1-2+0+0+0+0+0+0]
+<wassilychair> wash? what? I don't believe you
+<~pi43r> You don't believe what?
+<wassilychair> *pi43r: I go wash myself =) See you later
+<~pi43r> ah, I had a really nice shower and feel better than ever!
+<~pi43r> also got a new blanket
+Viewerstats (12:10-12:38): avg:2 min:2 max:3 [15/2+0+0+0+0+1+0+0+0+0+0+0+0+0+0]
+Viewerstats (12:40-13:08): avg:2 min:2 max:4 [15/3-1+0+2-1-1+0+0+0+0+0+0+0+0+0]
+Viewerstats (13:10-13:38): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (13:40-14:08): avg:1 min:1 max:2 [15/2+0-1+0+1+0+0-1+0+0+0+0+0+0+0]
+Viewerstats (14:10-14:38): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (14:40-15:08): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (15:10-15:38): avg:1 min:1 max:2 [15/1+0+0+0+0+1-1+0+0+0+0+0+0+0+0]
+Viewerstats (15:40-16:08): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+<lazy_girl93> Wow, would love to hear the sound!
+Viewerstats (16:10-16:38): avg:1 min:1 max:2 [15/1+0+0+0+0+0+0+0+0+0+1+0+0+0+0]
+Viewerstats (16:40-17:10): avg:1 min:1 max:2 [16/2+0+0+0-1+0+0+0+0+0+0+0+1+0+0+0]
+Viewerstats (17:12-17:40): avg:3 min:2 max:5 [15/2+0+0+2-1+0+0+0+2-1+0+0+0+0+0]
+Viewerstats (17:42-18:10): avg:2 min:2 max:5 [15/4-1+0+0+0+0+0+2-3+0+0+0+0+0+0]
+Viewerstats (18:12-18:22): avg:2 min:2 max:3 [6/2+1+0+0+0+0]
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+~Stream offline~
+<~pi43r> I have a recording :-) Sorry, that the stream died 
+~Squatting Twitch  +_+ (Art)~
+Viewerstats (18:50-18:52): avg:0 min:0 max:1 [2/_0+1]
+Viewerstats (18:54-19:22): avg:1 min:1 max:2 [15/1+0+1+0+0+0+0+0+0+0-1+0+0+0+0]
+Viewerstats (19:24-19:52): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+Viewerstats (21:27-21:27): avg:0 min:0 max:0 [1/0]
+Viewerstats (21:28-21:58): avg:1 min:1 max:1 [16/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (22:00-22:30): avg:0 min:0 max:1 [16/1+0+0-1+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (22:32-23:00): avg:0 min:0 max:1 [15/0+0+0+1+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (23:02-23:30): avg:1 min:1 max:2 [15/1+1-1+1-1+0+0+0+0+0+0+0+0+1+0]
+Viewerstats (23:32-00:00): avg:2 min:2 max:3 [15/2+0+1-1+0+0+0+0+0+0+0+0+0+0+0]
+<melliotzuckerberg> yes I'm here
+<melliotzuckerberg> ello chat & @pi43r
+<melliotzuckerberg> let's get this party started
+<wassilychair> finally|
+<~pi43r> heeey
+<melliotzuckerberg> I heard you were recruiting mods
+<melliotzuckerberg> how come I didn't get to be one BibleThump BibleThump
+Trying to mod melliotzuckerberg..
+[Info] You have added melliotzuckerberg as a moderator of this channel.
+MOD_ACTION: pi43r (mod melliotzuckerberg)
+<@melliotzuckerberg> OMYGOSH
+Trying to vip wassilychair..
+[Info] Unable to add VIP. Visit the Achievements page on your dashboard to learn how to unlock this feature.
+<wassilychair> wooow that was fast
+<@melliotzuckerberg> brb need to call my mom
+<@melliotzuckerberg> she will be so proud
+<@melliotzuckerberg> so what are you up to @pi43r
+<wassilychair> fuck, zuck is the only moderator
+<@melliotzuckerberg> i can time you out, you know
+<@melliotzuckerberg> EVEN ban
+<@melliotzuckerberg> so be careful
+<wassilychair> FINE
+<wassilychair> let's see
+<@melliotzuckerberg> zucc de mode
+MOD_ACTION: melliotzuckerberg (timeout wassilychair 600 )
+BAN: wassilychair (600s)
+MOD_ACTION: melliotzuckerberg (untimeout wassilychair)
+<@melliotzuckerberg> See.
+<wassilychair> fucke youeeeeh
+<@melliotzuckerberg> NOOOO NONONONO
+<@melliotzuckerberg> FUCKA
+<@melliotzuckerberg> YU
+<~pi43r> you re mod but we are god
+<@melliotzuckerberg> tru
+<@melliotzuckerberg> very tru
+Trying to unmod melliotzuckerberg..
+[Info] You have removed melliotzuckerberg as a moderator of this channel.
+MOD_ACTION: pi43r (unmod melliotzuckerberg)
+<melliotzuckerberg> I JUST WANTED YOUR ATTENTION SENPAI
+<melliotzuckerberg> forgive me
+<~pi43r> look
+Trying to mod wassilychair..
+[Info] You have added wassilychair as a moderator of this channel.
+MOD_ACTION: pi43r (mod wassilychair)
+<@wassilychair> How come there's no women with a powerful position in this chat?
+<@wassilychair> <3
+<melliotzuckerberg> my powers have been stripped from me
+<melliotzuckerberg> how do you know I'm not a woman?
+<@wassilychair> <3 <3
+<melliotzuckerberg> it's the internet.
+<~pi43r> wassily is a woman?
+<melliotzuckerberg> she preferres chair
+<melliotzuckerberg> not wassily
+<~pi43r> the chair is a woman?
+<melliotzuckerberg> not the chair
+<melliotzuckerberg> don't assume her article
+<melliotzuckerberg> chair.
+Viewerstats (00:02-00:30): avg:1 min:1 max:2 [15/2+0-1+0+1+0+0+0+0+0+0+0+0+0+0]
+<melliotzuckerberg> just chair
+<@wassilychair> refferes to me with THEY or IT
+<melliotzuckerberg> THEY CHAIR
+<melliotzuckerberg> hey let's play a game
+<@wassilychair> yeees
+<melliotzuckerberg> it's much more fun when there's like 100s of people in the chat but we can try in 3
+<melliotzuckerberg> if @pi43r gives us a bit of his precious attention
+<melliotzuckerberg> so the game goes
+<melliotzuckerberg> 1
+<melliotzuckerberg> 2
+<melliotzuckerberg> 3
+<melliotzuckerberg> 4
+<melliotzuckerberg> okay I really thought you'd pick it up by now
+<melliotzuckerberg> 5
+<melliotzuckerberg> 6
+<@wassilychair> 7
+<melliotzuckerberg> 8
+<@wassilychair> 9
+<melliotzuckerberg> 10
+<@wassilychair> 11
+<melliotzuckerberg> 11
+<melliotzuckerberg> fuck
+<@wassilychair> haaaai
+<melliotzuckerberg> 1
+<@wassilychair> 2
+<melliotzuckerberg> 3
+<@wassilychair> 4
+<melliotzuckerberg> 5
+<@wassilychair> 6
+<@wassilychair> 7
+<@wassilychair> 8
+<@wassilychair> 9
+<melliotzuckerberg> 10
+<@wassilychair> 10
+<melliotzuckerberg> ha!
+<@wassilychair> cazzp
+<@wassilychair> 1
+<melliotzuckerberg> 2
+<@wassilychair> 3
+<@wassilychair> 4
+<@wassilychair> 5
+<melliotzuckerberg> we made them leave
+<@wassilychair> 6
+<@wassilychair> AHAHHA
+<melliotzuckerberg> 7
+<@wassilychair> 8
+<@wassilychair> 9
+<@wassilychair> 10
+<@wassilychair> 11
+<melliotzuckerberg> 11
+<@wassilychair> eheh
+<melliotzuckerberg> very ez
+<melliotzuckerberg> you being mod allows you to spam
+<@wassilychair> 11 is not your lucky number
+<melliotzuckerberg> i get timed out for writing in chat too quickly
+<melliotzuckerberg> no you're the one who lost
+<melliotzuckerberg> i typed first
+<melliotzuckerberg> same goes for last time
+<@wassilychair> no
+<melliotzuckerberg> yes.
+<@wassilychair> I typed first
+<melliotzuckerberg> 1
+<melliotzuckerberg> you want a screenshot?
+<@wassilychair> yes
+<@wassilychair> screen or it didn't happen
+<melliotzuckerberg> https://imgur.com/a/FZlVQl6
+<melliotzuckerberg> 1
+<melliotzuckerberg> 2
+<@wassilychair> https://imgur.com/a/ebriD4u
+<melliotzuckerberg> 3
+<@wassilychair> 4
+<~pi43r> there's a stomr
+<~pi43r> storm
+<melliotzuckerberg> oh damn
+<melliotzuckerberg> you leaving?
+<~pi43r> naaah
+<melliotzuckerberg> play the counting game with us
+<melliotzuckerberg> it's more fun than you think iti s
+<melliotzuckerberg> 5
+<@wassilychair> 6
+<@wassilychair> 7
+<@wassilychair> 8
+<@wassilychair> 9
+<melliotzuckerberg> 10
+<~pi43r> combobreaker
+<melliotzuckerberg> 11
+<melliotzuckerberg> 12
+<@wassilychair> 12
+<melliotzuckerberg> HA
+<@wassilychair> caaaazzo
+<melliotzuckerberg> 1
+<~pi43r> caazoo?
+<@wassilychair> 2
+<@wassilychair> cazzo
+<melliotzuckerberg> 3
+<melliotzuckerberg> 4
+<melliotzuckerberg> 5
+<~pi43r> 6
+<~pi43r> 8
+<melliotzuckerberg> 7
+<melliotzuckerberg> 9
+<~pi43r> no
+<melliotzuckerberg> 10
+<~pi43r> 8, 7
+<melliotzuckerberg> not on my chat
+<melliotzuckerberg> well your chat.
+<melliotzuckerberg> hahah
+<~pi43r> hmm.. yean
+<melliotzuckerberg> okay
+<melliotzuckerberg> 1
+<~pi43r> 2
+<melliotzuckerberg> 3
+<@wassilychair> 3
+<~pi43r> 4
+<~pi43r> 1
+<@wassilychair> fffffffu
+<melliotzuckerberg> 2
+<@wassilychair> 3
+<melliotzuckerberg> 3
+<~pi43r> 4
+<melliotzuckerberg> 1
+<@wassilychair> AH
+<@wassilychair> 2
+<melliotzuckerberg> 3
+<@wassilychair> 4
+<@wassilychair> 5
+<@wassilychair> 6
+<@wassilychair> 7
+<@wassilychair> 8
+<@wassilychair> 9
+<@wassilychair> 10
+<@wassilychair> 11
+<melliotzuckerberg> 12
+<~pi43r> Need For Speed Underground 2 – Snoop Dogg & The Doors - Riders On The Storm [Fredwreck Remix]
+<melliotzuckerberg> wheres teh link
+<melliotzuckerberg> 13
+<melliotzuckerberg> u should stream the music
+<melliotzuckerberg> 14
+<melliotzuckerberg> 15
+<melliotzuckerberg> 16
+<melliotzuckerberg> 17
+<@wassilychair> 18
+<~pi43r> on thursday we try to stream the music
+<@wassilychair> 19
+<melliotzuckerberg> 20
+<@wassilychair> I'm listening to it <3
+<@wassilychair> 21
+<melliotzuckerberg> 21
+<melliotzuckerberg> AH
+<@wassilychair> eheh
+<@wassilychair> me first
+<melliotzuckerberg> still a high score
+<melliotzuckerberg> 1
+<@wassilychair> 2
+<@wassilychair> 3
+<@wassilychair> 4
+<@wassilychair> 5
+<@wassilychair> 6
+<@wassilychair> 7
+<melliotzuckerberg> 8
+<@wassilychair> 8
+<@wassilychair> 9
+<@wassilychair> eheh zuck
+<@wassilychair> 1
+<melliotzuckerberg> 2
+<@wassilychair> 3
+<melliotzuckerberg> 4
+<@wassilychair> 5
+<melliotzuckerberg> 5
+<melliotzuckerberg> i mean
+<melliotzuckerberg> like
+<melliotzuckerberg> SO INCONSISTENT
+<melliotzuckerberg> 1
+<@wassilychair> 2
+<melliotzuckerberg> 3
+<@wassilychair> 3
+<melliotzuckerberg> ...
+<@wassilychair> 1
+<melliotzuckerberg> 2
+<@wassilychair> 3
+<melliotzuckerberg> 4
+<@wassilychair> 5
+<melliotzuckerberg> 6
+<@wassilychair> 7
+<melliotzuckerberg> 8
+<@wassilychair> 9
+<melliotzuckerberg> 10
+<@wassilychair> 11
+<melliotzuckerberg> 12
+<@wassilychair> 13
+<melliotzuckerberg> 14
+<@wassilychair> 15
+<melliotzuckerberg> 16
+<@wassilychair> 17
+<melliotzuckerberg> 18
+<@wassilychair> 19
+<melliotzuckerberg> 20
+<@wassilychair> 21
+<melliotzuckerberg> 22
+<@wassilychair> 23
+<melliotzuckerberg> 24
+<@wassilychair> 25
+<melliotzuckerberg> 26
+<@wassilychair> 27
+<melliotzuckerberg> 28
+<@wassilychair> 29
+<melliotzuckerberg> 30
+<@wassilychair> 31
+<melliotzuckerberg> 32
+<@wassilychair> 33
+<melliotzuckerberg> 34
+<@wassilychair> 35
+<melliotzuckerberg> 36
+<@wassilychair> 37
+<melliotzuckerberg> 38
+<@wassilychair> 39
+<melliotzuckerberg> 40
+<@wassilychair> 41
+<melliotzuckerberg> 42
+<@wassilychair> 43
+<melliotzuckerberg> 44
+<@wassilychair> 45
+<melliotzuckerberg> 46
+<@wassilychair> 47
+<melliotzuckerberg> 48
+<@wassilychair> 49
+<melliotzuckerberg> 50
+<@wassilychair> 51
+<melliotzuckerberg> 52
+<@wassilychair> 53
+<melliotzuckerberg> 54
+<@wassilychair> 55
+<melliotzuckerberg> 56
+<@wassilychair> 57
+<melliotzuckerberg> 58
+<@wassilychair> 59
+<melliotzuckerberg> 60
+<@wassilychair> 61
+<melliotzuckerberg> 62
+<@wassilychair> 63
+<melliotzuckerberg> 64
+<@wassilychair> 65
+<melliotzuckerberg> 66
+<@wassilychair> 67
+<melliotzuckerberg> 68
+<@wassilychair> 69
+<melliotzuckerberg> 70
+<@wassilychair> 71
+<melliotzuckerberg> 72
+<@wassilychair> 73
+<melliotzuckerberg> 74
+<@wassilychair> 75
+<melliotzuckerberg> 76
+<@wassilychair> 77
+<melliotzuckerberg> 78
+<@wassilychair> 79
+<melliotzuckerberg> 80
+<@wassilychair> 81
+<melliotzuckerberg> 82
+<@wassilychair> 83
+<melliotzuckerberg> 84
+<@wassilychair> 85
+<melliotzuckerberg> https://imgur.com/a/2IkiLHW
+<melliotzuckerberg> 86
+<@wassilychair> 87
+<@wassilychair> 88
+<@wassilychair> 89
+<@wassilychair> 90
+<@wassilychair> 91
+<@wassilychair> 92
+<@wassilychair> 93
+<@wassilychair> 94
+<@wassilychair> 95
+<@wassilychair> 96
+<@wassilychair> 97
+<@wassilychair> 98
+<~pi43r> 99
+<@wassilychair> 99
+<melliotzuckerberg> 100
+<melliotzuckerberg> NOOOOOOO
+<@wassilychair> noooo
+<@wassilychair> AHAHAHA
+<@wassilychair> @melliotzuckerberg find another game
+<melliotzuckerberg> find another game
+<melliotzuckerberg> i'll think if i know any other twitch chat game
+<melliotzuckerberg> but i don't think so
+<melliotzuckerberg> i just like this one
+<melliotzuckerberg> very basic
+<melliotzuckerberg> it's getting pretty late
+<@wassilychair> ok, I have a game
+<melliotzuckerberg> what?
+<@wassilychair> I think one person, and you can ask me some question to understand who this person is
+<@wassilychair> I can answer just with Yes or No
+<melliotzuckerberg> like a party game in twitch chat
+<melliotzuckerberg> okay
+<melliotzuckerberg> you have the person already?
+<@wassilychair> yes
+<melliotzuckerberg> is it a celebrity?
+<@wassilychair> no
+<melliotzuckerberg> well we shouldn't type names of people from RL
+<melliotzuckerberg> like a public figure of some sort?
+<@wassilychair> well you will not type the name
+<@wassilychair> you'll see
+<melliotzuckerberg> nooo still too easy to doxx
+<melliotzuckerberg> no real people
+<@wassilychair> FINE
+<melliotzuckerberg> CELEBRITIES ARE NOT REAL
+<@wassilychair> but this one was really funny
+<melliotzuckerberg> keep it for a drinking moment
+<@wassilychair> it was a famous mom
+<melliotzuckerberg> AAAAAAA
+<@wassilychair> you know her Onur
+<@wassilychair> AH
+<@wassilychair> ups
+<~pi43r> fabians mom
+<@wassilychair> AHAHAHHA
+<melliotzuckerberg> so what's going on are we playing or not? pick a celebrity
+<@wassilychair> ok
+<~pi43r> fabians mom
+<@wassilychair> mmh
+<melliotzuckerberg> ready?
+<@wassilychair> ok
+<@wassilychair> yes
+<melliotzuckerberg> a singer?
+<@wassilychair> yes
+<~pi43r> is it a real person?
+<melliotzuckerberg> a woman?
+<@wassilychair> yes
+<melliotzuckerberg> gwen stefani?
+<@wassilychair> no
+<~pi43r> blond?
+<@wassilychair> yes
+<melliotzuckerberg> pop?
+<@wassilychair> no
+<melliotzuckerberg> ohh i had my answer even
+<~pi43r> electrnic?
+<@wassilychair> no
+<~pi43r> do you have an earworm of it?
+<melliotzuckerberg> rock
+<@wassilychair> ahaha no
+<~pi43r> now?
+<~pi43r> duuuh
+<@wassilychair> no
+<~pi43r> does she still live?
+<melliotzuckerberg> sexy at least?
+<melliotzuckerberg> good question
+<@wassilychair> yes and no, it depends
+<melliotzuckerberg> WHAT
+<melliotzuckerberg> is she in a coma?
+<~pi43r> a zombie?
+<@wassilychair> no
+<@wassilychair> aaaah wait
+<@wassilychair> i didn't read @pi43r question
+<@wassilychair> yes she's alive
+<melliotzuckerberg> ah no, not sexy
+Viewerstats (00:32-01:00): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+<melliotzuckerberg> emmm
+<~pi43r> p!nk?
+<@wassilychair> I mean, she can be sexy too
+<melliotzuckerberg> come on she is sexy.
+<@wassilychair> no not pink
+<~pi43r> ahh, not sex
+<~pi43r> y
+<melliotzuckerberg> lady gaga
+<@wassilychair> no
+<~pi43r> from the usa?
+<@wassilychair> no
+<melliotzuckerberg> canada?
+<@wassilychair> yes
+<melliotzuckerberg> justin bieber?
+<@wassilychair> no
+<melliotzuckerberg> avril lavigne?
+<@wassilychair> yeeees
+<melliotzuckerberg> she is cute but i guess i agree she wouldn't be necessarily sexy
+<melliotzuckerberg> the next guess was going to be celine dion
+<~pi43r> are we discussing avril lavigne's sexyness?
+<melliotzuckerberg> yes
+<@wassilychair> yes
+<melliotzuckerberg> wanna chime in?
+<~pi43r> https://imgur.com/gallery/aUTkirb
+<melliotzuckerberg> this is almost like MSN messenger times where you would just chat in groups
+<~pi43r> I'd rather discuss her personality
+<melliotzuckerberg> NICKELBACK DID NOTHING WRONG
+<@wassilychair> AHAHAHAHAHA
+<melliotzuckerberg> _sends nudge_
+<melliotzuckerberg> okay my turn
+<~pi43r> do you know this video where avril lavigne was asked about "sk8er boy"?
+<melliotzuckerberg> no
+<@wassilychair> no
+<~pi43r> https://www.youtube.com/watch?v=MfoMh2cuIYA
+<~pi43r> maybe
+<melliotzuckerberg> "i like to rock oooout"
+<~pi43r> it's not the one
+<melliotzuckerberg> "i can't really explain punk to you"
+<melliotzuckerberg> 17 yo avril.
+<melliotzuckerberg> i'd rather watch eminem teach jimmy kimmel how to rap from the sidebar
+<@wassilychair> wow, I wish I didn't see this video
+<~pi43r> the one I remember is where she's talking about taking creatives risks by using an 8 instead of the common spelling
+<melliotzuckerberg> yeah me too
+<@wassilychair> back to the game
+<melliotzuckerberg> i have a celebrity
+<~pi43r> there are two girls smoking infront of my window
+<melliotzuckerberg> in a creepy way?
+<~pi43r> while i play this https://www.youtube.com/watch?v=mNpMBwPOpik
+<@wassilychair> AHAHAHA
+<melliotzuckerberg> invite them over
+<~pi43r> they haven't seen me
+<melliotzuckerberg> BOIIIII
+<~pi43r> they left
+<melliotzuckerberg> they can count with us
+<melliotzuckerberg> 1
+<~pi43r> 2
+<melliotzuckerberg> 3
+<@wassilychair> Inoooooo
+<@wassilychair> nooooooo
+<@wassilychair> 4
+<melliotzuckerberg> l'no
+<@wassilychair> 5
+<melliotzuckerberg> 6
+<@wassilychair> 7
+<@wassilychair> 8
+<@wassilychair> 9
+<melliotzuckerberg> 10
+<@wassilychair> is it an actor?
+<melliotzuckerberg> no
+<melliotzuckerberg> 11
+<@wassilychair> is it a girl?
+<melliotzuckerberg> no
+<@wassilychair> is it a woman?
+<~pi43r> 6
+<melliotzuckerberg> nop
+<@wassilychair> is it a male?
+<melliotzuckerberg> identifies as one, yes
+<@wassilychair> singer?
+<melliotzuckerberg> mhm
+<melliotzuckerberg> thats yes
+<~pi43r> blond?
+<melliotzuckerberg> 7
+<melliotzuckerberg> no
+<~pi43r> 8
+<@wassilychair> 9
+<~pi43r> brown hair?
+<~pi43r> 10
+<@wassilychair> 11
+<@wassilychair> 12
+<@wassilychair> 13
+<@wassilychair> 14
+<~pi43r> 15
+<melliotzuckerberg> almost black i'd say
+<~pi43r> 16
+<@wassilychair> 17
+<~pi43r> skincolor?
+<~pi43r> 18
+<@wassilychair> 18
+<melliotzuckerberg> yes?
+<~pi43r> nice
+<melliotzuckerberg> 1
+<~pi43r> nice?
+<@wassilychair> black skin?
+<melliotzuckerberg> yes and yes
+<~pi43r> dark skin?
+<@wassilychair> fffffh
+<melliotzuckerberg> also yes
+<@wassilychair> I know
+<@wassilychair> maybe
+<~pi43r> light dark skin?
+<melliotzuckerberg> yes
+<~pi43r> rihanna
+<melliotzuckerberg> nop
+<~pi43r> ah, michael jackson
+<@wassilychair> drake?
+<melliotzuckerberg> rihanna doesn't identify as male last time i checked
+<melliotzuckerberg> not MJ
+<melliotzuckerberg> D R A K E
+<melliotzuckerberg> ofc.
+<~pi43r> Michael Jordan?
+<@wassilychair> I KNEW IT
+<melliotzuckerberg> i started ez
+<~pi43r> 4
+<@wassilychair> 5
+<melliotzuckerberg> thought you'd guess it quicker
+<~pi43r> 6
+<melliotzuckerberg> your turn @pi43r
+<melliotzuckerberg> 7
+<~pi43r> i don't like drake
+<@wassilychair> 8
+<~pi43r> 9
+<@wassilychair> AHAHAH
+<@wassilychair> 10
+<@wassilychair> 11
+<@wassilychair> 12
+<~pi43r> 13
+<@wassilychair> 13
+<melliotzuckerberg> he's an acquired taste
+<@wassilychair> 1
+<melliotzuckerberg> 2
+<@wassilychair> 3
+<~pi43r> 4
+<@wassilychair> 4
+<@wassilychair> 1
+<melliotzuckerberg> 2.
+<melliotzuckerberg> can i be mod again?
+<melliotzuckerberg> GENDER EQUALITY
+<~pi43r> i heard  he's quite popular with the first time listeners
+<melliotzuckerberg> this isn't equal
+<melliotzuckerberg> oh i've listened to drake many more times than 1
+<@wassilychair> you cannot be mod if you like Drake, srry
+Trying to mod melliotzuckerberg..
+[Info] You have added melliotzuckerberg as a moderator of this channel.
+MOD_ACTION: pi43r (mod melliotzuckerberg)
+<@melliotzuckerberg> sexist AND racist
+<@melliotzuckerberg> towards blacks, canadians and jews.
+<@melliotzuckerberg> wow.
+<@melliotzuckerberg> maybe @wassilychair shouldn't be mod
+<@wassilychair> :O
+<~pi43r> I know a black canadian jew that is quite nice @wassilychair
+<@melliotzuckerberg> ¯\_(ツ)_/¯
+<@melliotzuckerberg> me too
+<~pi43r> #
+<@melliotzuckerberg> his name is Aubrey
+<~pi43r> wann talk about politics?
+<~pi43r> *a
+<@melliotzuckerberg> i thought we already were?
+<@melliotzuckerberg> pick your celebrity @pi43r
+<~pi43r> [1] crazy corona
+<~pi43r> [2] trumpy trump
+<~pi43r> [3] german hamburg election
+<~pi43r> [ 4 ] Hanau
+<@melliotzuckerberg> give us some info about [3]
+<~pi43r> more info: Nothing spectacular happened
+<@melliotzuckerberg> do people still talk about trump? it's 2020
+<@melliotzuckerberg> i thought we moved on as a species
+<~pi43r>  [ 5 ] bernie bern
+<@melliotzuckerberg> you scared @wassilychair away
+<@melliotzuckerberg> let's talk about celebrities
+<@melliotzuckerberg> come on pick one @pi43r
+<~pi43r> i don't know celebritys
+<@melliotzuckerberg> you have opinions on each one we mentioned
+<@melliotzuckerberg> and were able to guess some names
+<@melliotzuckerberg> so that's not true
+<~pi43r> if you search for "celebrity" in duckduckgo you get either celebrity cruiseships or porn
+<@melliotzuckerberg> nice
+<@melliotzuckerberg> BRB
+<@wassilychair> ok
+<@wassilychair> I have one
+<@melliotzuckerberg> is it a singer?
+<@wassilychair> no
+<@melliotzuckerberg> a model?
+<@wassilychair> no
+<@melliotzuckerberg> just a public figure?
+<@wassilychair> no
+<@melliotzuckerberg> actor?
+<~pi43r> https://postimg.cc/yWgYYw0v
+<@wassilychair> yes
+<@melliotzuckerberg> so male?
+<~pi43r> 1
+<@melliotzuckerberg> 2
+<@wassilychair> yes
+<~pi43r> 3
+<@wassilychair> 3
+<~pi43r> 1
+<@melliotzuckerberg> british?
+<@wassilychair> no
+<~pi43r> 99
+<~pi43r> 98
+<~pi43r> 97
+<@melliotzuckerberg> canadian?
+<@wassilychair> no
+<@wassilychair> 96
+<@melliotzuckerberg> american then
+<~pi43r> 3
+<@wassilychair> no
+<~pi43r> 95
+<@melliotzuckerberg> european?
+<@wassilychair> yes
+<@melliotzuckerberg> italian?
+<@wassilychair> yes
+<@melliotzuckerberg> gallo
+<~pi43r> 94
+<~pi43r> 93
+<@wassilychair> no
+<~pi43r> 4
+<~pi43r> 5
+<~pi43r> 92
+<~pi43r> 91
+<~pi43r> 90
+<~pi43r> 6
+<@melliotzuckerberg> are you high @pi43r
+<~pi43r> slightly
+<@wassilychair> 619
+<~pi43r> 89
+<~pi43r> 88
+<@melliotzuckerberg> hmm not gallo
+<~pi43r> 87
+<@wassilychair> nein
+<~pi43r> 86
+<~pi43r> 85
+<~pi43r> 84
+<~pi43r> 83
+<~pi43r> 82
+<~pi43r> 81
+<~pi43r> 80
+<~pi43r> 79
+<@melliotzuckerberg> i don't think i can come up with a name other than gallo
+<~pi43r> 78
+<~pi43r> 77
+<~pi43r> 76
+<@melliotzuckerberg> is he very super famous?
+<~pi43r> beautiful?
+<@wassilychair> I think you can, you need to ask some more questions to define him better
+<@wassilychair> mmh yes/no
+<@melliotzuckerberg> or like hipster film watchers know him?
+<@wassilychair> yes is super famous
+<@melliotzuckerberg> is he older than 50?
+<@wassilychair> I think so, not sure
+<@melliotzuckerberg> if only there were a way to know
+<@wassilychair> wait , I check
+<@wassilychair> yes
+<@melliotzuckerberg> younger than 60?
+<@wassilychair> no
+<@melliotzuckerberg> younger than 70?
+<@wassilychair> yes
+<~pi43r> I will strip for you in one minute
+<@melliotzuckerberg> did he play in a ww2 movie?
+<@wassilychair> no
+Viewerstats (01:02-01:32): avg:2 min:2 max:5 [16/2+0+0+0+0+0+0+0+0+0+0+0+0+3-2+0]
+<@melliotzuckerberg> okay if it's not Benigni i'm out
+<@melliotzuckerberg> and for him i had to google
+<@wassilychair> no
+<@melliotzuckerberg> even for gallo i had to google a movie name
+<@wassilychair> it's easier than what you think
+<@wassilychair> I'm gonna help you
+<@melliotzuckerberg> like nationality Italian?
+<@melliotzuckerberg> not italo-american?
+<@wassilychair> he's an actor, but he doesn't act in all kinds of movies
+<@wassilychair> not italo-american
+<@melliotzuckerberg> we have a 3rd watcher now
+<@melliotzuckerberg> WHOS LURKING?
+<@wassilychair> that could help out
+<@melliotzuckerberg> the moment he starts stripping
+<@wassilychair> AHAHAHA
+<@melliotzuckerberg> actor but doesn't act in all kinds of movies
+<@wassilychair> anyway "strip" kinda relate with him
+<@melliotzuckerberg> somewhere between 60-70 yo
+<~pi43r> there are also some bots in the stream
+<@melliotzuckerberg> does he have anything to do with Demi Moore?
+<@wassilychair> no
+<@wassilychair> should I give you th final big hint?
+<@melliotzuckerberg> yes
+<@melliotzuckerberg> i'm not getting anywhere
+<@wassilychair> he's in the porn industry
+<@melliotzuckerberg> AH
+<@wassilychair> B
+<@wassilychair> c
+<@wassilychair> d
+<@wassilychair> e
+<@wassilychair> f
+<@wassilychair> g
+<~pi43r> h
+<~pi43r> i
+<@wassilychair> i
+<~pi43r> j
+<@melliotzuckerberg> Rocco
+<@wassilychair> a
+<@melliotzuckerberg> of course
+<~pi43r> b
+<@wassilychair> Rocco Siffredi yeees
+<@melliotzuckerberg> he's not older than 60
+<@melliotzuckerberg> hahah Rocco Antonio Siffredi
+<@wassilychair> I think is 60 something
+<@melliotzuckerberg> Rocco Antonio Tano[1] 4 May 1964 (age 55)[1] Ortona, Italy[1]
+<@wassilychair> aah nooo
+<@wassilychair> shiit
+<@wassilychair> trve
+<@melliotzuckerberg> oh wow he's still actively doing stuff
+<@wassilychair> Rocco Antonio Tano ahaha
+<@melliotzuckerberg> went on his website expecting to see "philantropist" or something
+<@wassilychair> wow
+<@melliotzuckerberg> did you know sasha grey is on twitch now?
+<@wassilychair> he has a show on Netflix now
+<@melliotzuckerberg> she streams
+<@wassilychair> Siffredi something
+<@melliotzuckerberg> https://www.twitch.tv/sashagrey
+<@wassilychair> don't remember
+<@wassilychair> with the wife always around
+<@wassilychair> aaaah sasha <3
+<@melliotzuckerberg> she's in the US so always very late streams
+<~pi43r> holly sasha on twitch
+<@wassilychair> How do you add all that fancy icons?
+<@melliotzuckerberg> hahah rocco has a section on his website that goes "MOST POPULAR ROCCO SIFFREDI PORNSTARS"
+<@melliotzuckerberg> and of course valentina nappi is there
+<~pi43r> you need more followers to get all these fancy icons
+<@wassilychair> VALENTINA NAPPI <3
+<@wassilychair> she makes me laught a lot on her social networks
+<@melliotzuckerberg> you need followers and continuous scheduled streaming sessions to keep viewers to grow your channel, then you can become a "twitch partner" to get "subscriptions" on your channel
+<@melliotzuckerberg> from there on it just keeps growing with "tiered subs" etc.
+<@wassilychair> ffff, seems too much work
+<~pi43r> do you stream zucc?
+<@melliotzuckerberg> it's like this metagame thing
+<@melliotzuckerberg> nop
+<@melliotzuckerberg> i lurk a lot tho
+<@melliotzuckerberg> some cool streamers who play games i like
+<@melliotzuckerberg> not so often but every now and then
+<@melliotzuckerberg> i used to watch a lot of twitch
+<~pi43r> man, there is this format from austrian tv called "Alltagsgeschichte" ... it's amazing if you understand german
+<~pi43r> (or want to learn it)
+<@melliotzuckerberg> okay that might work
+<@melliotzuckerberg> can you give us a link to have a look at it and start learning austrian german
+<~pi43r> It's just this team with a camera that goes around asks people about their life.
+<~pi43r> https://www.youtube.com/watch?v=lK61pD_ySeU
+<@melliotzuckerberg> i think i know it because sausage girl was watching something that sounds like it with zappa in the cheap student bar we have
+<~pi43r> I watched this some days ago. amaaaazing
+<~pi43r> awww... I should invite sausage girl to the chat
+<@melliotzuckerberg> i think it was this
+<@melliotzuckerberg> not this episode but the show
+<@wassilychair> aaah yeah, I remember
+<@melliotzuckerberg> wow this intro
+<@melliotzuckerberg> amazing
+<@melliotzuckerberg> they were able to fit in so much sadness in 90 seconds
+<@melliotzuckerberg> that should be a record.
+<~pi43r> Now I'm watching Grossfeldsiedlung, it's more up beat: https://www.youtube.com/watch?v=mSrO3vIerIc
+<@melliotzuckerberg> oh my god dude
+<~pi43r> great, no?
+<@melliotzuckerberg> genius work
+<@melliotzuckerberg> i should get going
+<@melliotzuckerberg> it's almost 2am
+<~pi43r> i lost chair to austrian tv
+<@melliotzuckerberg> yeah THEY are gone now
+<@melliotzuckerberg> forever
+<@wassilychair> my god, that shit is so good
+<@melliotzuckerberg> haha
+<@melliotzuckerberg> well i'm off
+<~pi43r> good n8
+<@melliotzuckerberg> was a pleasure to chill with you
+<@wassilychair> yeah I'll go to sleep too
+<~pi43r> like back in the days =)
+<@melliotzuckerberg> see you later
+<@melliotzuckerberg> yeah really
+<@melliotzuckerberg> and see you even sooner @wassilychair
+<@melliotzuckerberg> byz
+<@wassilychair> good night
+<@wassilychair> xoxo
+Viewerstats (01:34-02:02): avg:1 min:1 max:3 [15/3+0+0-1+0+0+0+0+0+0+0-1+0+0+0]
+Viewerstats (02:04-02:32): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+~Stream offline~
+~Squatting Twitch  +_+ (Art)~
+Viewerstats (11:08-11:28): avg:0 min:0 max:2 [11/_2-2+0+0+1-1+0+0+0+0+0]
+Viewerstats (11:30-11:58): avg:1 min:0 max:2 [15/0+0+0+0+1+0+0+0+1+0+0+0+0+0+0]
+<@wassilychair> still in bed? :O
+<~pi43r> yeeeah...
+<~pi43r> lazy today
+<~pi43r> but I will try to get  up now.
+Viewerstats (12:00-12:28): avg:3 min:2 max:5 [15/2+0+1+1-1+1-1+0+0+2-2+0+2-2+0]
+Viewerstats (12:30-12:58): avg:3 min:3 max:3 [15/3+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (13:00-13:28): avg:2 min:2 max:3 [15/3+0+0+0-1+0+1-1+0+0+0+0+0+0+0]
+Viewerstats (13:30-13:58): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (14:00-14:28): avg:2 min:2 max:3 [15/2+0+0+1-1+0+1-1+0+0+0+1-1+0+0]
+Viewerstats (14:30-14:58): avg:2 min:2 max:3 [15/2+0+0+0+0+1-1+0+0+0+0+0+0+0+0]
+<voidiovoid> Hi, why is there no sound?
+<~pi43r> hey @voidovoid I'm running the stream on a raspberry pi and didn't get a microphone for it. I also feel a bit more private without sound ;) 
+<~pi43r> I also like that it becomes much more like a security camera, rather than an entertaining stream :D 
+<voidiovoid> uhmm i understand
+<~pi43r> (oh god, these emojis look horrible)
+<voidiovoid> true it's strange not to have a sound feedback from the surroundings it gives a sense of less involvement
+<voidiovoid> true, ugly emojis
+<~pi43r> But I have to figure out how to stream sound directly from my laptop, because tomorrow two DJs want come and play here 
+<voidiovoid> Yeah i was also wondering about how could a collab work from here without sound
+<voidiovoid> Maybe you stream the sound through another platform (?)
+<~pi43r> colab with text. Yestereday we played games in the chat. What are you currently working on?
+<~pi43r> (yeah, streaming over another platform is what I thought of
+<voidiovoid> games sounds cool, how did that work? I've been thinking on how could a sound collab could work with people on different places, nothing specific really...
+<~pi43r> Somebody told me about a choir where the conductor called every singer over skype
+<~pi43r> One game was counting up, the other game was "who am I". Hahaha
+<~pi43r> Ah, and we played truth or dare some days ago 
+<voidiovoid> hahahaha ...wild
+<~pi43r> Do you have any upcoming exhibitions?
+<~pi43r> I just realized I have to bring back a cable that I borrowed yesterday
+<~pi43r> brb
+<voidiovoid> ok, no i don't have upcoming exhibitions
+<voidiovoid> i seached for skype choir
+<voidiovoid> https://www.youtube.com/watch?v=D7o7BrlbaDs
+<voidiovoid> I'm not dissapointed this looks funny
+<~pi43r> hahah, the intro though
+Viewerstats (15:00-15:28): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+<~pi43r> I have to make an image for a performance I was proposing for a shopping centre in Salzburg. The title is "Visitors from the Future". The idea is to set up a camp in the mall and stay there for 2 days. Every participant fills out a character sheet before they come and plays this role of an alien from the future for the whole duration. 
+<~pi43r> But I am clueless of how this image could look like :/
+<~pi43r> I would like to see a virtual choir life. As far as I understand Whitacre just uses videos and puts them together. But wouldn't it be nice to have all the hickups and delays and glitches as part of the choir?
+Viewerstats (15:30-15:58): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (16:00-16:28): avg:1 min:1 max:2 [15/1+0+0+0+0+0+0+0+0+1+0-1+1-1+0]
+Viewerstats (16:30-16:58): avg:1 min:1 max:2 [15/1+0+0+1-1+0+0+0+0+0+0+0+0+0+1]
+Viewerstats (17:00-17:28): avg:2 min:2 max:3 [15/2+0+0+0+0+0+0+1-1+0+0+0+0+0+0]
+Viewerstats (17:30-17:58): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+<fisganilisro14li> It is a pleasure to meet you I've watched your pi43r channel.
+<fisganilisro14li> always nice to get the notification for a new stream like Squatting Twitch +_+  I'm going to do design and arts for your streaming.
+<fisganilisro14li> have a look the website address in my account bannner Art is great!
+<~pi43r> hey @fisganilisro14li I don't understand what you are talking about o.O
+<~pi43r> you are a bot that makes ads for fiverr, right?
+Viewerstats (18:00-18:28): avg:2 min:2 max:3 [15/3-1+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Warning: Server not responding
+Viewerstats (18:30-18:59): avg:1 min:0 max:2 [15/2+0+0+0+0-1+0+0+0+0+1+0-2+0+0]
+Viewerstats (19:01-19:30): avg:0 min:0 max:1 [15/0+0+0+0+0+0+0+0+0+0+0+1-1+0+0]
+Viewerstats (19:32-20:00): avg:0 min:0 max:1 [15/0+0+1-1+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (20:02-20:30): avg:0 min:0 max:0 [15/0+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (20:32-21:00): avg:0 min:0 max:1 [15/0+0+0+0+0+0+0+1+0+0+0+0+0+0+0]
+Viewerstats (21:02-21:30): avg:0 min:0 max:1 [15/1+0+0+0+0+0+0-1+0+0+0+0+0+0+0]
+Viewerstats (21:32-22:00): avg:0 min:0 max:0 [15/0+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (22:02-22:30): avg:0 min:0 max:1 [15/0+0+0+0+0+0+0+0+0+1+0-1+0+0+0]
+Viewerstats (22:32-23:02): avg:0 min:0 max:1 [16/1-1+0+0+0+0+0+0+0+1-1+0+0+0+0+0]
+Viewerstats (23:04-23:32): avg:0 min:0 max:2 [15/0+0+0+0+0+0+0+0+0+1+0+1+0+0+0]
+Viewerstats (23:34-00:04): avg:1 min:1 max:2 [16/1+0+0+0+0+1+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (00:06-00:34): avg:1 min:1 max:2 [15/2+0+0+0+0+0+0+0+0+0-1+0+0+0+0]
+Viewerstats (00:36-01:04): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+Viewerstats (11:11-11:11): avg:1 min:1 max:1 [1/1]
+Viewerstats (11:13-11:41): avg:0 min:0 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0-1]
+Viewerstats (11:43-12:11): avg:0 min:0 max:1 [15/0+0+0+0+0+0+0+1-1+1-1+0+1+0+0]
+Viewerstats (12:13-12:41): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (12:43-13:11): avg:1 min:1 max:2 [15/1+0+0+0+0+0+0+1+0+0+0+0+0+0-1]
+<+Praetorian_TV> What is Squatting Twitch?
+<~pi43r> well I am squatting twitch.
+<~pi43r> check squatted.online
+Viewerstats (13:13-13:41): avg:1 min:1 max:2 [15/1+1+0-1+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (13:43-14:11): avg:1 min:1 max:2 [15/1+0+0+0+1+0+0-1+0+0+0+0+0+0+0]
+Viewerstats (14:13-14:41): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (14:43-15:11): avg:1 min:1 max:2 [15/1+0+0+0+1-1+0+0+0+0+0+0+0+0+0]
+Viewerstats (15:13-15:41): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (15:43-16:11): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (16:13-16:41): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (16:43-17:13): avg:1 min:1 max:2 [16/1+0+0+0+0+0+0+1-1+1+0-1+0+0+0+0]
+Viewerstats (17:15-17:43): avg:1 min:1 max:3 [15/1+0+1+0+0+0+0+0+0+0+1-2+1-1+0]
+Viewerstats (17:45-18:13): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (18:15-18:43): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Warning: Server not responding
+Viewerstats (18:45-19:13): avg:1 min:1 max:2 [15/2+0+0-1+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (19:15-19:43): avg:1 min:1 max:2 [15/1+0+0+0+0+0+0+0+0+1-1+0+0+0+0]
+Viewerstats (19:45-20:15): avg:1 min:1 max:3 [16/2+0+0+0+0+1-1+0+1-1-1+0+0+0+0+1]
+Viewerstats (20:17-20:45): avg:1 min:1 max:3 [15/1+0+0+0+0+0+0+0+0+0+0+0+1-1+2]
+Viewerstats (20:47-21:15): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (21:17-21:45): avg:2 min:2 max:5 [15/2+0+0+0+1-1+0+0+0+0+0+0+0+0+3]
+Viewerstats (21:47-22:15): avg:2 min:2 max:3 [15/3-1+0+0+0+0+0+1-1+0+0+0+0+0+0]
+Viewerstats (22:17-22:45): avg:2 min:2 max:3 [15/2+0+0+0+0+0+0+0+0+1+0-1+0+0+0]
+Viewerstats (22:47-23:15): avg:2 min:2 max:2 [15/2+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Viewerstats (23:17-23:45): avg:1 min:1 max:2 [15/2+0+0+0+0+0-1+0+0+0+0+0+0+0+0]
+Viewerstats (23:47-00:15): avg:1 min:1 max:1 [15/1+0+0+0+0+0+0+0+0+0+0+0+0+0+0]
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Disconnected
+Attempting to reconnect in 5 seconds.. (2/∞)
+Trying to connect to irc.chat.twitch.tv:6667
+Disconnected
+Attempting to reconnect in 5 seconds.. (3/∞)
+Trying to connect to irc.chat.twitch.tv:443 (secured)
+Disconnected
+Attempting to reconnect in 10 seconds.. (4/∞)
+Trying to connect to irc.chat.twitch.tv:80
+Disconnected
+Attempting to reconnect in 10 seconds.. (5/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+Warning: Server not responding
+~Stream offline~
+Warning: Server not responding
+Warning: Server not responding
+Viewerstats (00:17-00:19): avg:1 min:1 max:1 [2/1+0_]
+Warning: Server not responding
+Warning: Server not responding
+Warning: Server not responding
+Warning: Server not responding
+Warning: Server not responding
+Warning: Server not responding
+Warning: Server not responding
+Disconnected
+Attempting to reconnect in 1 seconds.. (1/∞)
+Trying to connect to irc.chat.twitch.tv:-1
+Disconnected
+Attempting to reconnect in 5 seconds.. (2/∞)
+Trying to connect to irc.chat.twitch.tv:-1
+Disconnected
+Attempting to reconnect in 5 seconds.. (3/∞)
+Trying to connect to irc.chat.twitch.tv:6697 (secured)
+Joining #pi43r..
+You have joined #pi43r
+Warning: Server not responding
+Warning: Server not responding
+Warning: Server not responding
+Warning: Server not responding
