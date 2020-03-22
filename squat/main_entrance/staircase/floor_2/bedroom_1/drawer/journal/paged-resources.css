@@ -99,12 +99,28 @@
     */
 
     /*--------------------------------------------------------------------------------------*/
+
+    .print-button{
+        padding: 5px;
+        color: blueviolet;
+        font-family: "Fontlab", monospace;
+        font-size: 1.5em;
+        background-color: aliceblue;
+        box-shadow: 2px 2px 2px blueviolet;
+        transform: rotateZ(-14deg);
+        z-index: 999;
+        visibility: visible !important;
+    }
+    .print-button:hover{
+        box-shadow: 0 0 0 white;
+    }
+    
 }
 
 @media print {
     @page {
         size: A5;
-        margin: 10mm 15mm;
+        margin: 10mm 11mm;
     }
     @page:left {
         margin-left: 15mm;
@@ -120,7 +136,14 @@
     .break-right {
         break-before: right;
     }
+    .break-left{
+        break-before: left;
+    }
+    .print-button{
+        visibility: hidden;
+    }
 }
+
 
 #cover-title {
     font-size: 3em;
@@ -152,4 +175,23 @@ a {
     color: black;
     text-decoration: none;
     border-bottom: 2px solid black;
+}
+
+img{
+    max-width: 100%;
+}
+
+.small{
+    width: 48%;
+    padding: 0.8em;
+}
+
+.right{
+    float: right;
+    padding-right: 0;
+}
+
+.left{
+    float: left;
+    padding-left: 0;
 }
