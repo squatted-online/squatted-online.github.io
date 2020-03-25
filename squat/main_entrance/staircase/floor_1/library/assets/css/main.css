@@ -291,6 +291,19 @@ p.highlight {
   }
 }
 
+.go-home{
+  position: fixed;
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  padding: 0.5em;
+  border: 3px dashed #0f0;
+  z-index: 999;
+}
+.go-home:hover{
+  background-color: #0f0;
+  border: 3px dashed #00f;
+}
+
 /* MEDIA QUERIES */
 
 @media all and (max-width: 620px) {

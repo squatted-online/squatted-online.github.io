@@ -1,141 +1,267 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Drawer</title>
-    
-    <meta name="description" content="online and offline exhibition space for the wrong digital art biennale" />
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Drawer</title>
 
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="squatted.online">
-    <meta name="twitter:description" content="online and offline exhibition space for the wrong digital art biennale">
-    <!-- Twitter Summary card images must be at least 120x120px -->
-    <meta name="twitter:image" content="https://squatted.online/staircase/floor_1/library/img/squatted.png">
+        <meta
+            name="description"
+            content="online and offline exhibition space for the wrong digital art biennale"
+        />
 
-    <!-- Open Graph data -->
-    <meta property="og:title" content="squatted.online" />
-    <meta property="og:type" content="art gallery" />
-    <meta property="og:url" content="https://squatted.online" />
-    <meta property="og:image" content="https://squatted.online/staircase/floor_1/library/img/squatted.png" />
-    <meta property="og:description" content="online and offline exhibition space for the wrong digital art biennale" />
-    
-    <link rel="stylesheet" href="../../../floor_1/library/assets/css/reset.css">
-    <link rel="stylesheet" href="../../../floor_1/library/assets/css/fonts.css">
-    <link rel="stylesheet" href="../../../floor_1/library/assets/css/main.css">
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="squatted.online" />
+        <meta
+            name="twitter:description"
+            content="online and offline exhibition space for the wrong digital art biennale"
+        />
+        <!-- Twitter Summary card images must be at least 120x120px -->
+        <meta
+            name="twitter:image"
+            content="https://squatted.online/staircase/floor_1/library/img/squatted.png"
+        />
 
-    <style>
-        .fullscreen{
-            width: 100vw;
-            height: 100vh;
-        }
-        .drawer-container{
-            position: fixed;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
+        <!-- Open Graph data -->
+        <meta property="og:title" content="squatted.online" />
+        <meta property="og:type" content="art gallery" />
+        <meta property="og:url" content="https://squatted.online" />
+        <meta
+            property="og:image"
+            content="https://squatted.online/staircase/floor_1/library/img/squatted.png"
+        />
+        <meta
+            property="og:description"
+            content="online and offline exhibition space for the wrong digital art biennale"
+        />
 
-        .centercenter{
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
-        .top{
-            width: 50%;
-            height: 200px;
-            background-color: rgb(185, 95, 30);
-            z-index: 10;
-            transform: perspective(600px) rotateX(35deg) scaleX(1) translateZ(-115px) translateY(64px);
-        }
-        .front{
-            width: 50%;
-            height: 500px;
-            margin-top: 100px;
-            background-color: chocolate;
-            transform: perspective(600px);
-        }
-        .drawer{
-            width: 80%;
-            height: 90px;
-            margin-bottom: 10px;
-            background-color: rgb(185, 95, 30);
-            border-radius: 9px;
-        }
-        .journal{
-            margin-left: -30%;
-            width: 110px;
-            height: 140px;
-            background-color: cornsilk;
-            padding: 5px;
-            text-align: center;
-            color: rgb(68, 47, 31);
-            text-decoration: none !important;
-            transform: rotateZ(1deg);
-            box-shadow: 
-                1px 1px 0 rgb(117, 94, 78),
-                2px 2px 0 rgb(117, 94, 78),
-                3px 3px 0 rgb(117, 94, 78),
-                4px 4px 0 rgb(117, 94, 78),
-                5px 5px 0 rgb(117, 94, 78),
-                6px 6px 0 rgb(117, 94, 78)
-            ;
-        }
-        .knauf{
-            width: 20px;
-            height: 20px;
-            background-color: rgb(148, 77, 26);
-            border-radius: 50%;
-        }
-    </style>
+        <link
+            rel="stylesheet"
+            href="../../../floor_1/library/assets/css/reset.css"
+        />
+        <link
+            rel="stylesheet"
+            href="../../../floor_1/library/assets/css/fonts.css"
+        />
+        <link
+            rel="stylesheet"
+            href="../../../floor_1/library/assets/css/main.css"
+        />
 
-</head>
-<body>
-    <div class="container" style="z-index:99;">
-        <div class="title-center">
-           <h2>This is the drawer.</h2>
-        </div>
-    </div>
-    <div class="drawer-container fullscreen">
-        <div class="top centercenter">
-            <a href="journal/pitcher_s_journal.pdf" target="_blank">
-                <div class="journal"> <br> <h3>pitscher's journal</h3> </div>
-            </a>
-        </div>
-        <div class="front centercenter">
-            <div class="drawer centercenter" onclick="stopthat()">
-                <div class="knauf"></div>
+        <style>
+            .fullscreen {
+                width: 100vw;
+                height: 100vh;
+            }
+            .drawer-container {
+                position: fixed;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .column {
+                flex-direction: column;
+            }
+
+            .row {
+                flex-direction: row;
+            }
+
+            .centercenter {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .top {
+                width: 50%;
+                height: 200px;
+                background-color: rgb(185, 95, 30);
+                z-index: 10;
+                transform: perspective(600px) rotateX(35deg) scaleX(1)
+                    translateZ(-115px) translateY(64px);
+            }
+            .front {
+                width: 50%;
+                height: 500px;
+                margin-top: 100px;
+                background-color: chocolate;
+                transform: perspective(600px);
+            }
+            .drawer {
+                width: 80%;
+                height: 90px;
+                margin-bottom: 10px;
+                background-color: rgb(185, 95, 30);
+                border-radius: 9px;
+            }
+            .journal {
+                margin-left: -30%;
+                width: 110px;
+                height: 140px;
+                background-color: cornsilk;
+                padding: 5px;
+                text-align: center;
+                color: rgb(68, 47, 31);
+                text-decoration: none !important;
+                transform: rotateZ(1deg);
+                box-shadow: 1px 1px 0 rgb(117, 94, 78),
+                    2px 2px 0 rgb(117, 94, 78), 3px 3px 0 rgb(117, 94, 78),
+                    4px 4px 0 rgb(117, 94, 78), 5px 5px 0 rgb(117, 94, 78),
+                    6px 6px 0 rgb(117, 94, 78);
+            }
+            .knauf {
+                width: 20px;
+                height: 20px;
+                background-color: rgb(148, 77, 26);
+                border-radius: 50%;
+            }
+            .boombox {
+                width: 220px;
+                height: 100px;
+            }
+            .boomtop {
+                width: 100%;
+                height: 25%;
+                background-color: lightgray;
+                z-index: 10;
+            }
+            .boomfront {
+                width: 100%;
+                height: 80%;
+                background-color: gray;
+                box-shadow: 
+                1px -1px 0 #999,
+                2px -2px 0 #999,
+                3px -3px 0 #999,
+                4px -4px 0 #999,
+                5px -5px 0 #999,
+                6px -6px 0 #999,
+                7px -7px 0 #999,
+                8px -8px 0 #999,
+                9px -9px 0 #999,
+                10px -10px 0 #999,
+                11px -11px 0 #999,
+                12px -12px 0 #999,
+                13px -13px 0 #999,
+                14px -14px 0 #999,
+                15px -15px 0 #999,
+                16px -16px 0 #999,
+                17px -17px 0 #999,
+                18px -18px 0 #999,
+                19px -19px 0 #999,
+                20px -20px 0 #999,
+                21px -21px 0 #999,
+                22px -22px 0 #999,
+                23px -23px 0 #999,
+                24px -24px 0 #999
+                ;
+            }
+
+            button{
+                width: 100%;
+                height: 100%;
+            }
+            .speaker{
+                width: 100%;
+                height: 100%;
+                background-color: #333;
+                border-radius: 50%;
+            }
+            .flex-left{
+                display: flex;
+                align-items: flex-start;
+                margin-left: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <a class="go-home" href="/index.html">&#8962; go home</a>
+        <div class="container" style="z-index:99;">
+            <div class="title-center">
+                <h2>This is the drawer.</h2>
             </div>
-            <div class="drawer centercenter" onclick="stopthat()">
-                <div class="knauf"></div>
-            </div>
-            <div class="drawer centercenter" onclick="stopthat()">
-                <div class="knauf"></div>
-            </div>
-            
         </div>
-    </div>
+        <div class="drawer-container fullscreen">
+            <div class="top centercenter row">
+                <a href="journal/index.html" target="_blank">
+                    <div class="journal">
+                        <br />
+                        <h3>pitscher's journal</h3>
+                    </div>
+                </a>
+                <div class="boombox centercenter column">
+                    <div class="boomfront centercenter">
+                        <audio
+                            id="player"
+                            src="boombox/mark-im-keck.ogg"
+                            class="centercenter row"
+                        ></audio>
+                        <div class="flex-left">
+                            <div class="column" style="width: 50%">
+                                <button
+                                    onclick="document.getElementById('player').play()"
+                                >
+                                    Play
+                                </button>
+                                <button
+                                    onclick="document.getElementById('player').pause()"
+                                >
+                                    Pause
+                                </button>
+                            </div>
+                            <div class="column" style="width: 50%">
 
-    <script>
-        const answers = [
-            "Hey, stop looking through my stuff!",
-            "Please don't look in there",
-            "There's nothing",
-            "Nothing there, I swear!",
-            "Please don't",
-            "Do you have no manners?",
-            "Nope",
-            "Stop that!",
-            "😨",
-            "Locked."
-        ];
-        function stopthat(){
+                            <button
+                                onclick="document.getElementById('player').volume += 0.1"
+                            >
+                                Vol+
+                            </button>
+                            <button
+                                onclick="document.getElementById('player').volume -= 0.1"
+                            >
+                                Vol-
+                            </button>
+                            </div>
 
-            alert(answers[Math.floor(Math.random() * answers.length)]);
-        }
-    </script>
-</body>
+                        </div>
+                        <div style="width: 50%; height: 100%; padding: 10px;">
+                            <div class="speaker"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="front centercenter column">
+                <div class="drawer centercenter" onclick="stopthat()">
+                    <div class="knauf"></div>
+                </div>
+                <div class="drawer centercenter" onclick="stopthat()">
+                    <div class="knauf"></div>
+                </div>
+                <div class="drawer centercenter" onclick="stopthat()">
+                    <div class="knauf"></div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            const answers = [
+                "Hey, stop looking through my stuff!",
+                "Please don't look in there",
+                "There's nothing",
+                "Nothing there, I swear!",
+                "Please don't",
+                "Do you have no manners?",
+                "Nope",
+                "Stop that!",
+                "😨",
+                "Locked."
+            ];
+            function stopthat() {
+                alert(answers[Math.floor(Math.random() * answers.length)]);
+            }
+        </script>
+    </body>
 </html>
