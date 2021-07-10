@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    font: inherit;
+}
+
+body {
+    margin: 1rem;
+    padding: 0;
+    animation: blink 0.1s infinite linear
+}
+
+/* @keyframes blink { 0%{ background-color:white; } 100%{ background-color:black;} 0%{ background-color:white;} */
+
+.info-text {
+    max-width: 700px;
+}
