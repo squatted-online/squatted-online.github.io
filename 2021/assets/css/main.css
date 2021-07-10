@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 150%;
+    font: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    animation: blink 0.1s infinite linear
+}
+
+header {
+    font-size: 2rem;
+}
+
+header, section {
+    /* mix-blend-mode: exclusion; */
+}
+
+/* @keyframes blink { 0%{ background-color:white; } 100%{ background-color:black;} 0%{ background-color:white;} */
+
+.info-text, header {
+    /* color: #3f3; */
+    margin: auto;
+    max-width: 700px;
+    /* text-shadow: 2px 2px 2px #33f; */
+}
+
+.info-text {
+    font-size: 1.25rem;
+    /* color: #33f;
+    text-shadow: 2px 2px 2px #3f3; */
+}
+
+.bg-img {
+    display: block;
+    max-width: 600px;
+    margin: auto;
+}
+
+.fix-img {
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+}
