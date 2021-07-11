@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #33f;
+    /* overflow: hidden; */
+}
+
+/* header {
+    margin-top: 30px;
+    text-align: center;
+}
+
+header a{
+    color: white;
+    font-family: 'pixel';
+    font-size: 20px;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: red;
+    font-style: italic;
+} */
+
+.claps{
+    height: 98vh;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+/* .drum-machine, .knobs  */
