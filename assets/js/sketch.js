@@ -7,11 +7,11 @@ let drums;
 
 
 
-hh_pattern =   [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+hh_pattern = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 clap_pattern = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0];
 bass_pattern = [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0];
 
-const drum_machine = document.querySelector('.drum-machine');
+const drum_machine = document.querySelector('.drum-machine.panel');
 const hh_elt = document.createElement('div');
 hh_elt.setAttribute('class', 'beat');
 
@@ -60,7 +60,7 @@ function setup() {
     clap_phrase = new p5.Phrase('clap', (time) => {
         clap.play(time)
     }, clap_pattern);
-    
+
     bass_phrase = new p5.Phrase('bass', (time) => {
         bass.play(time)
     }, bass_pattern);
@@ -166,18 +166,22 @@ function make_random_pattern() {
 
 function keyPressed() {
     if (key === ' ') {
-        if (hh.isLoaded() && clap.isLoaded() && bass.isLoaded()) {
-            if (!drums.isPlaying) {
-                drums.loop();
-            } else {
-                drums.stop()
-            }
-        }
+        play_drums()
     }
     // make_random_pattern()
 }
 
-function mousePressed(){
+function play_drums() {
+    if (hh.isLoaded() && clap.isLoaded() && bass.isLoaded()) {
+        if (!drums.isPlaying) {
+            drums.loop();
+        } else {
+            drums.stop()
+        }
+    }
+}
+
+function mousePressed() {
     // make_random_pattern()
 }
 

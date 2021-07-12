@@ -79,8 +79,13 @@ img.bg-img {
 }
 
 /* DRUM MACHINE */
-.panel{
+.music-box{
     width: 100%;
+    max-width: 260px;
+
+}
+.panel{
+    /* display: block; */
     height: 35%;
     background-color: #ccc;
     color: #00f;
@@ -101,9 +106,12 @@ img.bg-img {
 .beat {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-between;
     margin: 10px;
     font-size: 2rem;
+    border-bottom: solid 2px black;
+    word-break: break-all;
 }
 
 .claps{
@@ -134,3 +142,11 @@ img.bg-img {
     margin-right: 1rem;
 }
 
+@media all and (max-width: 750px) {
+    html{
+        font-size: 75%;
+    }
+    .header{
+        word-break: break-all;
+    }
+  }
