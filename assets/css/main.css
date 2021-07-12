@@ -12,8 +12,8 @@ body {
     padding: 0;
     animation: blink 0.1s infinite;
     animation-direction: alternate;
-    background-image: url('../imgs/www-bg.png');
-    background-size: 5%;
+    /* background-image: url('../imgs/www-bg.png');
+    background-size: 5%; */
 }
 
 .header {
@@ -50,7 +50,7 @@ header, section {
     margin: auto;
     max-width: 700px;
     /* text-shadow: 2px 2px 2px #33f; */
-    background-color: #fffa;
+    /* background-color: #fffa; */
     
     /* box-shadow: 4px 4px 5px white; */
     /* padding: 0.15rem; */
