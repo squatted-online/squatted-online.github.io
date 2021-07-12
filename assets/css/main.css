@@ -80,7 +80,7 @@ img.bg-img {
 
 /* DRUM MACHINE */
 .panel{
-    width: 100;
+    width: 100%;
     height: 35%;
     background-color: #ccc;
     color: #00f;
