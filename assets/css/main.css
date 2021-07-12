@@ -12,6 +12,8 @@ body {
     padding: 0;
     animation: blink 0.1s infinite;
     animation-direction: alternate;
+        background-color: #33f;
+
     /* background-image: url('../imgs/www-bg.png');
     background-size: 5%; */
 }
@@ -28,6 +30,11 @@ header, section {
     0%{ background-color:white; } 
     100%{ background-color:black;} 
 } */
+
+body{
+    /* overflow: hidden; */
+}
+
 
 .container {
     /* position: fixed; */
@@ -110,4 +117,10 @@ img.bg-img {
     justify-content: space-between;
     margin: 10px;
     font-size: 2rem;
+}
+
+.claps{
+    height: 98vh;
+    overflow: hidden;
+    visibility: hidden;
 }
