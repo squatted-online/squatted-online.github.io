@@ -85,7 +85,9 @@ function setup() {
 }
 
 panels = document.getElementsByClassName('panel');
+const running = document.getElementById('running')
 function draw() {
+    running.textContent =   getAudioContext().state
     const hh_inputs = hh_elt.childNodes;
     const clap_inputs = clap_elt.childNodes;
     const bass_inputs = bass_elt.childNodes;
@@ -173,7 +175,6 @@ function keyPressed() {
 }
 
 function play_drums() {
-    userStartAudio()
     if (hh.isLoaded() && clap.isLoaded() && bass.isLoaded()) {
         if (!drums.isPlaying) {
             drums.loop();
@@ -184,6 +185,8 @@ function play_drums() {
 }
 
 function mousePressed() {
+
+    userStartAudio()
     // make_random_pattern()
 }
 
