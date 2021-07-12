@@ -48,6 +48,7 @@ drum_machine.appendChild(clap_elt);
 drum_machine.appendChild(bass_elt);
 
 function setup() {
+    getAudioContext().suspend();
     noCanvas();
     hh = loadSound('assets/drum_samples/hoover.wav', () => { });
     clap = loadSound('assets/drum_samples/clap_sample.mp3', () => { });
@@ -172,6 +173,7 @@ function keyPressed() {
 }
 
 function play_drums() {
+    userStartAudio()
     if (hh.isLoaded() && clap.isLoaded() && bass.isLoaded()) {
         if (!drums.isPlaying) {
             drums.loop();
