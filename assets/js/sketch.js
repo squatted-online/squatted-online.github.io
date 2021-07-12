@@ -87,7 +87,7 @@ function setup() {
 panels = document.getElementsByClassName('panel');
 const running = document.getElementById('running')
 function draw() {
-    running.textContent =   getAudioContext().state
+    // running.textContent =   getAudioContext().state
     const hh_inputs = hh_elt.childNodes;
     const clap_inputs = clap_elt.childNodes;
     const bass_inputs = bass_elt.childNodes;
